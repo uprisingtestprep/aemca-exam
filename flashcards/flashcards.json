@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What percentage of the total AEMCA exam score does the professional practice and legal communication domain carry?",
+    "back": "It is worth seventeen percent of the total score, making it the largest single domain on the exam."
+  },
+  {
+    "id": 2,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does the acronym EHRAB stand for and where does it sit within Ontario's government?",
+    "back": "EHRAB stands for the Emergency Health Regulatory and Accountability Branch, and it sits within the Ontario Ministry of Health."
+  },
+  {
+    "id": 3,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What authority does EHRAB have over paramedic certification and ambulance services?",
+    "back": "EHRAB sets provincial standards for paramedic certification, ambulance service operation, and equipment, issues the Advanced Emergency Medical Care Assistant certificate, and has authority to investigate complaints, suspend certification, and audit ambulance services for compliance."
+  },
+  {
+    "id": 4,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What role does a Base Hospital play in Ontario's EMS system?",
+    "back": "A Base Hospital provides medical oversight for paramedics, and its medical director is legally responsible for the medical acts a paramedic performs under delegation."
+  },
+  {
+    "id": 5,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why is a patch call to a Base Hospital considered a legal document?",
+    "back": "What is said and what is authorized during a patch call becomes part of the patient record and can be reviewed later, so it carries the same legal weight as other documentation."
+  },
+  {
+    "id": 6,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Who is responsible for delivering land ambulance service under the Ambulance Act, and what does that responsibility include?",
+    "back": "Upper-tier municipalities, meaning counties and regional municipalities, are responsible for delivering land ambulance service in their geographic area, and they remain accountable for response times and service levels even if they contract the service to another provider."
+  },
+  {
+    "id": 7,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Describe the three-way relationship that structures Ontario's EMS system.",
+    "back": "EHRAB sets the provincial rules, the Base Hospital owns medical oversight, and the upper-tier municipality owns operational delivery of the ambulance service."
+  },
+  {
+    "id": 8,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Do professional paramedic associations have regulatory authority over individual paramedics?",
+    "back": "No. Their role is advocacy, professional development, and representing members' interests, not regulation, and association membership should not be confused with certification status."
+  },
+  {
+    "id": 9,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why do personal hygiene and a properly worn uniform matter beyond appearance?",
+    "back": "They affect infection control and they affect a patient's trust in the care being provided, so they are functional standards, not just cosmetic details."
+  },
+  {
+    "id": 10,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What kind of language is expected on scene when speaking with a patient?",
+    "back": "Language should be plain, respectful, and free of jargon the patient cannot understand, and profanity or dismissive language toward a patient, family member, or bystander is a conduct violation regardless of how stressful the call becomes."
+  },
+  {
+    "id": 11,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "A paramedic personally disapproves of a patient's lifestyle. What standard of care must they provide?",
+    "back": "The same standard of care as any other patient, regardless of the paramedic's personal opinion of the patient's lifestyle, appearance, or reason for calling."
+  },
+  {
+    "id": 12,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Give two examples of inappropriate patient interactions described in the chapter.",
+    "back": "Unnecessary physical contact and comments about a patient's body or choices that are not clinically relevant are both inappropriate, along with any behaviour that could reasonably be seen as flirtatious or intimidating."
+  },
+  {
+    "id": 13,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why does the conduct standard exist regarding a paramedic's power over a patient?",
+    "back": "A paramedic is in a position of power over a vulnerable person, and the standard of conduct exists specifically to protect that person from misuse of that power."
+  },
+  {
+    "id": 14,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is the purpose of a quality assurance program in EMS?",
+    "back": "Quality assurance programs review call records, patch calls, and patient outcomes to identify where care can improve, and paramedics should treat this review as a tool for improvement rather than a threat."
+  },
+  {
+    "id": 15,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does patient advocacy require of a paramedic when a family member's wishes conflict with the patient's own?",
+    "back": "Patient advocacy means speaking up for a patient's needs, including refusing to simply follow a family member's wishes when they conflict with a competent patient's own wishes."
+  },
+  {
+    "id": 16,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What are community paramedicine programs and why do they exist?",
+    "back": "They extend paramedics into non-emergency roles such as home visits for frequent callers, chronic disease monitoring, and falls prevention, and they exist because a large share of ambulance calls are not true emergencies."
+  },
+  {
+    "id": 17,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Is continuing professional development a one-time requirement met at graduation?",
+    "back": "No. Continuing professional development and reflective practice are ongoing obligations throughout a paramedic's career, not one-time requirements."
+  },
+  {
+    "id": 18,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does reflective practice mean for a paramedic?",
+    "back": "Reflective practice means honestly reviewing one's own calls, including the ones that went poorly, and identifying what would be done differently."
+  },
+  {
+    "id": 19,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is evidence-based practice, according to the chapter?",
+    "back": "Evidence-based practice means that clinical decisions and protocols are grounded in research and outcome data, not tradition or personal preference, and paramedics should understand why a directive says what it says."
+  },
+  {
+    "id": 20,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Name three techniques used to de-escalate a patient in acute psychological crisis.",
+    "back": "A calm tone of voice, non-threatening body positioning, and giving the patient room rather than crowding them are all de-escalation techniques described in the chapter."
+  },
+  {
+    "id": 21,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why should a paramedic avoid arguing over the content of a patient's delusion during a crisis call?",
+    "back": "Arguing over the content of a delusion or the accuracy of a complaint increases the chance that a verbal crisis becomes physical, so it should be avoided in favour of active listening."
+  },
+  {
+    "id": 22,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why should a paramedic never make a promise they cannot keep to calm a distressed patient?",
+    "back": "A broken promise destroys the patient's trust and can escalate the situation later, so paramedics should avoid promises they are not certain they can fulfill."
+  },
+  {
+    "id": 23,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does the abbreviation CIS refer to in EMS, and what does it describe?",
+    "back": "CIS stands for critical incident stress, which describes the psychological impact of exposure to traumatic calls, including pediatric deaths, multiple casualty incidents, and calls involving violence toward the paramedic."
+  },
+  {
+    "id": 24,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is CISM and what does it include?",
+    "back": "CISM, Critical Incident Stress Management, is a structured peer support system that includes defusing sessions shortly after a call and more formal debriefing for larger incidents."
+  },
+  {
+    "id": 25,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "How does the role of a peer support worker differ from a mental health professional's?",
+    "back": "Peer support workers are colleagues trained to provide a first line of confidential support, and their role is distinct from a mental health professional's, though referral to professional support is part of a healthy CISM system."
+  },
+  {
+    "id": 26,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why is it important for a paramedic to recognize cumulative stress in themselves and colleagues, not just acute reactions to a single bad call?",
+    "back": "Because stress effects can be chronic and build over time, recognizing cumulative, chronic effects rather than only the acute reaction to one traumatic call is part of professional self-care."
+  },
+  {
+    "id": 27,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What are open-ended questions and reflective listening examples of?",
+    "back": "They are examples of therapeutic communication techniques, along with appropriate silence that gives a patient time to answer."
+  },
+  {
+    "id": 28,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is a limitation of relying only on closed questions during a patient history?",
+    "back": "Closed questions gather specific facts quickly, but relying only on them can miss important information a patient would have volunteered given the chance."
+  },
+  {
+    "id": 29,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What elements should a standard bedside verbal report to a receiving nurse or physician cover?",
+    "back": "It should cover patient identification, chief complaint, relevant history, findings, treatment given, and response to treatment, in an organized structure that does not waste the receiving provider's time."
+  },
+  {
+    "id": 30,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why does radio communication follow a disciplined structure in EMS?",
+    "back": "Radio channels are shared and a poor transmission can be misheard with real consequences, so speaking clearly, using plain language instead of unofficial slang, and confirming a message was received and understood are essential disciplines."
+  },
+  {
+    "id": 31,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "In what order should information be given during an organized patch call to a Base Hospital physician?",
+    "back": "The patient's age, chief complaint, relevant history, vital signs, and the specific request or question should be given in that order so the physician can respond efficiently."
+  },
+  {
+    "id": 32,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why does a patch call require special attention compared to other communication?",
+    "back": "The Base Hospital physician is making a decision based entirely on what the paramedic tells them, so the information must be organized and accurate."
+  },
+  {
+    "id": 33,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Name the four ethical principles that guide difficult prehospital decisions.",
+    "back": "Autonomy, beneficence, non-maleficence, and justice are the four ethical principles that guide difficult decisions in the field."
+  },
+  {
+    "id": 34,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does the ethical principle of autonomy protect?",
+    "back": "Autonomy respects a capable patient's right to make their own decisions about their own body, including the right to refuse treatment or transport even when a paramedic disagrees with that choice."
+  },
+  {
+    "id": 35,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is the difference between beneficence and non-maleficence?",
+    "back": "Beneficence is the obligation to act in the patient's best interest, while non-maleficence is the obligation to avoid causing harm, which sometimes means choosing not to perform an intervention when the risk outweighs the benefit."
+  },
+  {
+    "id": 36,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does the ethical principle of justice mean in prehospital care?",
+    "back": "Justice means treating patients fairly and providing the same standard of care regardless of who they are or their ability to pay, and it also shapes decisions like resource allocation during a multiple casualty incident."
+  },
+  {
+    "id": 37,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "A capable patient refuses transport after a seizure. Which two ethical principles are in tension, and what is the correct approach?",
+    "back": "The patient's autonomy conflicts with the paramedic's instinct toward beneficence, and the correct approach respects a capable, informed refusal while documenting that the risks were explained."
+  },
+  {
+    "id": 38,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What Ontario legislation governs consent to treatment?",
+    "back": "The Health Care Consent Act, 1996, governs consent to treatment in Ontario."
+  },
+  {
+    "id": 39,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What makes a patient capable under the Health Care Consent Act?",
+    "back": "A capable patient is one who understands the information relevant to a decision and appreciates the reasonably foreseeable consequences of that decision."
+  },
+  {
+    "id": 40,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Can a capable patient refuse life-saving treatment in Ontario?",
+    "back": "Yes. A capable patient has the right to give or refuse consent to any treatment, including life-saving treatment."
+  },
+  {
+    "id": 41,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What four elements must informed consent include?",
+    "back": "Informed consent requires the patient understand the nature of the proposed treatment, its expected benefits, its material risks, and the alternatives, including the alternative of no treatment."
+  },
+  {
+    "id": 42,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "When does implied consent apply?",
+    "back": "Implied consent applies when an unconscious or otherwise incapable patient requires emergency treatment and no substitute decision-maker is available, since the law presumes a reasonable person would consent to necessary emergency care."
+  },
+  {
+    "id": 43,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is a substitute decision-maker and when does one act?",
+    "back": "A substitute decision-maker acts on behalf of a patient who is not capable of consenting, following a hierarchy set out in the Health Care Consent Act."
+  },
+  {
+    "id": 44,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "List the hierarchy of substitute decision-makers set out in the Health Care Consent Act.",
+    "back": "The hierarchy starts with a court-appointed guardian or a person named in a power of attorney for personal care, then a Consent and Capacity Board-appointed representative, then spouse or partner, parent or child, sibling, and other relative, with the Public Guardian and Trustee acting as the mandatory decision-maker of last resort."
+  },
+  {
+    "id": 45,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What standard must a substitute decision-maker use when making a decision for an incapable patient?",
+    "back": "They must make the decision the incapable patient would have made if capable, known as substituted judgment, or if that is unknown, must act in the incapable patient's best interests."
+  },
+  {
+    "id": 46,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Is capacity a fixed, all-or-nothing state?",
+    "back": "No. Capacity is decision-specific and can fluctuate; a patient may be capable of consenting to transport while being incapable of consenting to a more complex treatment decision, and capacity should be reassessed if condition changes."
+  },
+  {
+    "id": 47,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What four elements must be proven to establish negligence in a legal sense?",
+    "back": "Negligence requires a duty of care owed to the patient, a breach of the standard of care expected of a reasonably prudent paramedic, damages suffered by the patient, and a causal link between the breach and the damages."
+  },
+  {
+    "id": 48,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Once a paramedic begins patient care, can that duty of care simply be abandoned?",
+    "back": "No. Once a duty of care exists it cannot simply be abandoned without properly transferring care to an equal or higher level of provider."
+  },
+  {
+    "id": 49,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What defines a paramedic's scope of practice?",
+    "back": "Scope of practice is defined by the medical directives issued under Base Hospital oversight and the certification level a paramedic holds."
+  },
+  {
+    "id": 50,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Is it acceptable to perform an intervention outside one's authorized scope of practice if it helps the patient?",
+    "back": "No. Performing an intervention outside one's authorized scope, even with good intentions and even if it helps the patient, exposes the paramedic and the service to liability and is a serious professional conduct issue."
+  },
+  {
+    "id": 51,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What legislation establishes the legal framework for ambulance service delivery in Ontario, including certification requirements and vehicle standards?",
+    "back": "The Ambulance Act and its regulations, including Ontario Regulation 257/00, establish this legal framework."
+  },
+  {
+    "id": 52,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "For AEMCA exam purposes, is it more important to memorize specific section numbers of O. Reg. 257/00 or to understand what it governs?",
+    "back": "Understanding that the regulation exists and governs day-to-day operational and certification requirements is more important for exam purposes than memorizing specific section numbers."
+  },
+  {
+    "id": 53,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Under Ontario's Mental Health Act, who can order the apprehension of a person believed to have a mental disorder and pose a risk of serious harm?",
+    "back": "Only a physician completes a Form 1, after examining the person. A police officer's separate apprehension power under section 17 of the Act does not require or produce a Form 1 at the time of apprehension; a physician may complete one later at the facility."
+  },
+  {
+    "id": 54,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does a Form 1 authorize, and what does it not authorize?",
+    "back": "A Form 1 authorizes transport and assessment of the person at a psychiatric facility against their will for a limited period, but it does not authorize treatment against the patient's will."
+  },
+  {
+    "id": 55,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Do paramedics complete a Form 1 themselves?",
+    "back": "No. Paramedics are not the ones who complete a Form 1, but they are frequently the ones who transport a patient under one."
+  },
+  {
+    "id": 56,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "When transporting a patient under a Form 1, what use-of-force standard must a paramedic follow?",
+    "back": "The paramedic must use the minimum force reasonably necessary to safely manage the patient, proportionate to the actual risk presented, and must document it thoroughly, including what alternatives were attempted first."
+  },
+  {
+    "id": 57,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is the purpose of the Coroners Act in the context of prehospital care?",
+    "back": "It requires certain deaths to be reported to a coroner, and paramedics play a role in recognizing these situations and preserving the scene when a death appears to fall under coroner jurisdiction."
+  },
+  {
+    "id": 58,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Give three categories of death that must be reported to a coroner under the Coroners Act.",
+    "back": "Sudden and unexpected deaths, deaths occurring during or shortly after a medical or surgical procedure, and deaths that may have resulted from violence, negligence, misconduct, or malpractice must all be reported."
+  },
+  {
+    "id": 59,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does scene preservation mean when a death appears to fall under coroner jurisdiction?",
+    "back": "It means not moving the body or disturbing evidence beyond what is necessary to confirm death and ensure safety, and clearly documenting the position and condition in which the patient was found."
+  },
+  {
+    "id": 60,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What legislation is Ontario's current child welfare law, and what duty does it create for paramedics?",
+    "back": "The Child, Youth and Family Services Act, 2017, creates a legal duty for any person, including paramedics, with reasonable grounds to suspect a child is or may be in need of protection to report that suspicion directly to a children's aid society without delay."
+  },
+  {
+    "id": 61,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Can a paramedic delegate their duty to report suspected child abuse to someone else, such as a nurse at the receiving hospital?",
+    "back": "No. This duty cannot be delegated to someone else to report on the paramedic's behalf, even when the information was obtained in a professional or confidential context."
+  },
+  {
+    "id": 62,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What threshold triggers the duty to report suspected child abuse under the Child, Youth and Family Services Act?",
+    "back": "Reasonable grounds to suspect triggers the duty, which is a lower threshold than certainty; a paramedic who waits for proof before reporting has failed the standard."
+  },
+  {
+    "id": 63,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What exemptions does the Highway Traffic Act grant to ambulances responding to an emergency?",
+    "back": "It grants exemptions such as proceeding through a red signal or exceeding the posted speed limit, but only when it is safe to do so and generally requiring the use of emergency lights and siren together."
+  },
+  {
+    "id": 64,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Do Highway Traffic Act exemptions remove a paramedic driver's responsibility for safety?",
+    "back": "No. The exemptions do not remove a driver's responsibility to exercise due regard for the safety of others."
+  },
+  {
+    "id": 65,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What does 'due regard' mean for a paramedic driver, and what is the legal consequence of not exercising it?",
+    "back": "Due regard means driving in a way that a reasonable, careful driver would use given the emergency circumstances, and a driver who causes a collision while responding can still be found liable if they did not exercise due regard."
+  },
+  {
+    "id": 66,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Give two signs on scene that may suggest abuse is occurring in a home.",
+    "back": "Injuries inconsistent with the stated mechanism and delayed treatment-seeking are both signs, along with a patient who appears frightened of another person present."
+  },
+  {
+    "id": 67,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "How does the obligation to report abuse of a capable adult who does not wish it reported differ from reporting suspected child abuse?",
+    "back": "Reporting abuse of a capable adult is more limited since a capable adult retains autonomy over that decision, unlike suspected child abuse, which is mandatory to report under the Child, Youth and Family Services Act."
+  },
+  {
+    "id": 68,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "If a capable adult does not want their abuse reported, what should a paramedic still do?",
+    "back": "The paramedic should still document findings carefully and connect the patient with available resources, even though the report itself is not mandatory."
+  },
+  {
+    "id": 69,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What standards set out what must be recorded on every ambulance call in Ontario?",
+    "back": "Ontario Ambulance Documentation Standards set out what must be recorded, including times, findings, interventions, and the patient's response."
+  },
+  {
+    "id": 70,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is the Transfer of Care Report and why must it be left with the receiving provider?",
+    "back": "It is the document handed to the receiving facility summarizing the call, and it must be completed and left with the receiving provider because it becomes part of the patient's permanent medical record."
+  },
+  {
+    "id": 71,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What standard should documentation meet regarding speculation about diagnosis?",
+    "back": "Documentation should be objective, factual, and free of speculation about diagnosis unless within the paramedic's scope to state."
+  },
+  {
+    "id": 72,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why is accurate documentation described as protecting more than just the patient?",
+    "back": "A well-documented call protects the patient, the paramedic, and the service if the care given is ever questioned later."
+  },
+  {
+    "id": 73,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What body mechanics principles reduce injury risk during patient lifting and transferring?",
+    "back": "Using the legs rather than the back, keeping the load close to the body, and using appropriate equipment such as stair chairs and stretchers rather than attempting a manual carry beyond one's capability all reduce injury risk."
+  },
+  {
+    "id": 74,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Give an example of how positioning decisions can be both clinical decisions and handling safety considerations.",
+    "back": "Recovery position for an unconscious but breathing patient and a seated position for a patient in respiratory distress are both clinical positioning decisions that also affect handling safety."
+  },
+  {
+    "id": 75,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What should driving manoeuvres during transport prioritize, beyond simply reaching the destination quickly?",
+    "back": "Driving manoeuvres should prioritize patient comfort and safety in the back of the vehicle, since sudden braking, sharp turns, and aggressive acceleration can injure a patient who is not fully secured."
+  },
+  {
+    "id": 76,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Why should a driver communicate with the attendant in the back before executing a manoeuvre that could affect patient care?",
+    "back": "Because sudden movements of the vehicle can affect an intervention in progress or injure a patient who is not fully secured, so coordination between driver and attendant is required."
+  },
+  {
+    "id": 77,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What defines a multiple casualty incident, or MCI?",
+    "back": "An MCI occurs when the number of patients exceeds the resources immediately available to treat them using normal one-to-one methods."
+  },
+  {
+    "id": 78,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "How does triage change during an MCI compared to a normal single-patient call?",
+    "back": "Triage shifts from treating the sickest patient first to sorting patients rapidly by survivability, doing the greatest good for the greatest number of patients rather than focusing on one patient at a time."
+  },
+  {
+    "id": 79,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What four factors does an MCI triage system assess to sort patients?",
+    "back": "It assesses ability to walk, respiration, perfusion, and mental status to sort patients rapidly by survivability."
+  },
+  {
+    "id": 80,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "List the four sorting categories used in MCI triage.",
+    "back": "Patients are sorted into immediate, delayed, minor, and deceased or expectant categories."
+  },
+  {
+    "id": 81,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What widely used triage system is the MCI sorting approach described in the chapter similar to?",
+    "back": "It is similar in structure to widely used START-style triage."
+  },
+  {
+    "id": 82,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "What is the purpose of incident command at the scene of an MCI?",
+    "back": "Incident command establishes a clear chain of authority, preventing duplicated effort, ensuring resources are directed where needed most, and giving every responder a clear reporting line."
+  },
+  {
+    "id": 83,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "Name four defined roles within an MCI incident command structure.",
+    "back": "An incident commander, a triage officer, a treatment officer, and a transport officer are all defined roles within incident command."
+  },
+  {
+    "id": 84,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "At what point does an MCI's incident command structure become essential rather than optional?",
+    "back": "It becomes essential once a scene grows beyond what a single crew can manage informally."
+  },
+  {
+    "id": 85,
+    "domain": "professional_practice_and_legal_communication",
+    "front": "How should a candidate approach the professional practice and legal communication domain when studying for the AEMCA exam?",
+    "back": "Not as a list of rules to memorize, but as the professional identity being built for the rest of a paramedic's career, since it touches every call, not just the dramatic ones."
+  },
+  {
+    "id": 86,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What four questions does the scene survey answer before you touch the patient?",
+    "back": "Is the scene safe, what happened, how many patients are there, and do you need more resources."
+  },
+  {
+    "id": 87,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Why does scene safety always come before patient contact?",
+    "back": "A paramedic who becomes a second patient helps nobody. If the scene is not safe you stage at a distance and request the resources needed to make entry safe, such as police or fire."
+  },
+  {
+    "id": 88,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How does mechanism of injury shape your assessment before you reach the patient?",
+    "back": "A rollover, fall from height, penetrating injury, or crush mechanism each predict specific injury patterns, raising your index of suspicion and shaping what you look for during the primary survey."
+  },
+  {
+    "id": 89,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Why is counting patients an essential scene survey step?",
+    "back": "An easily missed patient, such as an ejected occupant lying in a ditch, can be overlooked, and if patients exceed your resources you must shift to a multi-patient framework and call additional units."
+  },
+  {
+    "id": 90,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What ventilation rate is used for an adult in respiratory arrest?",
+    "back": "Roughly one breath every 6 seconds, or about 10 breaths per minute."
+  },
+  {
+    "id": 91,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What mnemonic organizes the primary survey sequence?",
+    "back": "LOC, A, B, C, D: level of consciousness, airway, breathing, circulation, and disability, with each life threat corrected on the spot before moving on."
+  },
+  {
+    "id": 92,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does the AVPU scale assess and what are its four levels?",
+    "back": "AVPU assesses level of consciousness: alert, responsive to voice, responsive to pain, or unresponsive."
+  },
+  {
+    "id": 93,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does it mean clinically that a patient is alert and talking to you?",
+    "back": "It confirms their airway is open and they are perfusing their brain adequately in that moment."
+  },
+  {
+    "id": 94,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What airway sounds should you listen for during the primary survey?",
+    "back": "Stridor, gurgling, snoring respirations, or complete silence in a patient who should be breathing all signal an airway problem."
+  },
+  {
+    "id": 95,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the immediate correction for an unresponsive patient whose tongue is occluding the airway?",
+    "back": "A head-tilt-chin-lift or jaw thrust, suctioning, or an airway adjunct as needed, corrected right away rather than documented for later."
+  },
+  {
+    "id": 96,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What should you expose and examine during the breathing assessment when trauma is suspected?",
+    "back": "Expose the chest and look for open wounds, flail segments, or asymmetrical rise and fall, and listen and feel for equal bilateral air movement."
+  },
+  {
+    "id": 97,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Name three breathing life threats that demand immediate intervention in the primary survey.",
+    "back": "Tension pneumothorax, flail chest, and an open chest wound, treated by sealing wounds, supporting ventilation, or preparing for advanced decompression."
+  },
+  {
+    "id": 98,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How is major external hemorrhage managed during the circulation step?",
+    "back": "Immediately, with direct pressure, wound packing, or a tourniquet depending on presentation, since uncontrolled hemorrhage is a rapidly fatal but preventable cause of death."
+  },
+  {
+    "id": 99,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does cool, pale, clammy skin suggest during the circulation assessment?",
+    "back": "Poor perfusion and possible shock, even before a blood pressure reading is obtained."
+  },
+  {
+    "id": 100,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is assessed during the disability step of the primary survey?",
+    "back": "A rapid neurological check of gross motor and sensory function in all four limbs along with pupil response, expanded further in the secondary survey."
+  },
+  {
+    "id": 101,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What decision is made at the end of the primary survey?",
+    "back": "A general impression and transport decision, often phrased as load and go versus stay and play, based on whether the patient is stable enough for a full scene assessment."
+  },
+  {
+    "id": 102,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What findings push a crew toward rapid load and go transport?",
+    "back": "Uncontrolled airway compromise, inadequate breathing, uncontrolled hemorrhage, or shock, with treatment continuing en route rather than prolonging scene time."
+  },
+  {
+    "id": 103,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What are the two forms the secondary survey can take?",
+    "back": "A focused exam for an isolated, clearly localized complaint, or a full head-to-toe exam for significant trauma, altered level of consciousness, or an unclear mechanism."
+  },
+  {
+    "id": 104,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "In what order does the head-to-toe exam proceed?",
+    "back": "Scalp and skull, face, eyes, ears, nose, mouth, neck, chest, abdomen, pelvis, all four extremities, and the posterior body including the back when it is safe to log roll the patient."
+  },
+  {
+    "id": 105,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What ventilation rate is used for a child, and how does it compare to an infant?",
+    "back": "Roughly one breath every 2 to 3 seconds, or about 20 to 30 breaths per minute, with an infant ventilated at the higher end of that same range."
+  },
+  {
+    "id": 106,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does the mnemonic DCAP-BTLS stand for?",
+    "back": "Deformities, contusions, abrasions, punctures or penetrations, burns, tenderness, lacerations, and swelling."
+  },
+  {
+    "id": 107,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does OPQRST explore during history taking?",
+    "back": "The character of a symptom such as pain: onset, provocation and palliation, quality, region and radiation, severity, and time."
+  },
+  {
+    "id": 108,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does SAMPLE gather during history taking?",
+    "back": "Signs and symptoms, allergies, medications, pertinent past medical history, last oral intake, and events leading up to the call."
+  },
+  {
+    "id": 109,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How should a paramedic handle history from an unreliable historian?",
+    "back": "Lean more heavily on physical findings, bystander accounts, medication bottles, and medical alert jewellery, and document corroborating information as coming from that source rather than the patient."
+  },
+  {
+    "id": 110,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What device delivers a low concentration of supplemental oxygen for a mildly hypoxic patient who needs only modest support?",
+    "back": "A nasal cannula, which is a lower flow, more comfortable device suited to modest oxygen needs."
+  },
+  {
+    "id": 111,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does the pediatric assessment triangle evaluate, and when is it used?",
+    "back": "Appearance, work of breathing, and circulation to skin, assessed from across the room before hands-on contact to give a fast general impression."
+  },
+  {
+    "id": 112,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Why can geriatric patients present atypically for serious conditions?",
+    "back": "A serious problem such as a myocardial infarction or infection may present with vague symptoms like confusion or generalized weakness rather than the textbook presentation, complicated by sensory impairment, polypharmacy, and multiple chronic conditions."
+  },
+  {
+    "id": 113,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "List four signs of adequate ventilation with a bag-valve-mask.",
+    "back": "Visible symmetrical chest rise and fall with each breath, improving or maintained SpO2, improving skin colour, and an appropriate heart rate response."
+  },
+  {
+    "id": 114,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What device delivers a high concentration of oxygen to a spontaneously breathing patient who is significantly hypoxic or in shock?",
+    "back": "A non-rebreather mask, which delivers high concentration oxygen through a reservoir bag that must remain inflated."
+  },
+  {
+    "id": 115,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the roughly normal adult blood pressure range, and why does a single reading matter less than a trend?",
+    "back": "Roughly 90 to 140 mmHg systolic over 60 to 90 mmHg diastolic; a single reading is only a data point, while a trend across multiple readings is real clinical information."
+  },
+  {
+    "id": 116,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the roughly normal adult resting respiratory rate, and why does quality matter as much as rate?",
+    "back": "Roughly 12 to 20 breaths per minute; shallow, laboured, or irregular breathing can be dangerous even at a numerically normal rate."
+  },
+  {
+    "id": 117,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the generally normal SpO2 range on room air, and name two situations where the reading can be inaccurate.",
+    "back": "Generally 94 to 100 percent on room air; it can be inaccurate in poor perfusion states, with nail polish, in carbon monoxide poisoning, and with excessive patient movement."
+  },
+  {
+    "id": 118,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Why is blood glucose considered a critical vital sign for altered level of consciousness?",
+    "back": "Hypoglycemia is a rapidly reversible cause of unresponsiveness that can mimic stroke, seizure, or intoxication."
+  },
+  {
+    "id": 119,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the roughly normal fasting blood glucose range in Canadian units, and the general threshold for hypoglycemia?",
+    "back": "Roughly 4 to 7 mmol per litre normal fasting, with hypoglycemia generally defined below about 4 mmol per litre, though exact thresholds follow local protocol."
+  },
+  {
+    "id": 120,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What three categories make up the Glasgow Coma Scale, and what is its scoring range?",
+    "back": "Eye opening, verbal response, and motor response, summing from 3, indicating no response in any category, to 15, indicating a fully alert and oriented patient."
+  },
+  {
+    "id": 121,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What does cyanosis indicate, and where is it most visible?",
+    "back": "It indicates significant hypoxia and demands immediate airway and oxygenation attention, most visible around the lips and nail beds."
+  },
+  {
+    "id": 122,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Why is excessive bag-valve-mask ventilation rate or volume dangerous?",
+    "back": "It can cause gastric insufflation, increase the risk of vomiting and aspiration, and in a patient with a pulse can reduce venous return and cardiac output, so controlled, age-appropriate rates and volumes matter as much as ventilating at all."
+  },
+  {
+    "id": 123,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the difference between the head-tilt-chin-lift and jaw thrust maneuvers?",
+    "back": "The head-tilt-chin-lift is used for a medical patient with no suspected spinal injury, tilting the forehead back while lifting the chin, while the jaw thrust displaces the mandible forward without extending the neck and is used when spinal injury is suspected."
+  },
+  {
+    "id": 124,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Under what condition is an oropharyngeal airway contraindicated, and why?",
+    "back": "In a patient with an intact gag reflex, since insertion will cause vomiting and possible aspiration."
+  },
+  {
+    "id": 125,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How is an OPA sized and inserted differently in an adult versus a pediatric patient?",
+    "back": "It is sized from the corner of the mouth to the earlobe or angle of the jaw; in an adult it is inserted upside down and rotated 180 degrees, while in a pediatric patient it is inserted right side up using a tongue depressor to avoid soft tissue trauma."
+  },
+  {
+    "id": 126,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How is a nasopharyngeal airway sized and inserted?",
+    "back": "Sized from the tip of the nose to the earlobe, lubricated, and gently inserted along the floor of the nasal passage with the bevel oriented toward the septum."
+  },
+  {
+    "id": 127,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "When should an NPA be used with caution, and why?",
+    "back": "With suspected significant facial or basilar skull fracture, due to a theoretical risk of inadvertent intracranial placement, though this risk is now understood to be lower than once taught and local protocol should guide the decision."
+  },
+  {
+    "id": 128,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How should a responsive patient with a partial airway obstruction who is coughing forcefully be managed?",
+    "back": "Encourage continued coughing, since a strong cough clears an obstruction more effectively than any manual manoeuvre."
+  },
+  {
+    "id": 129,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How does management of a complete airway obstruction differ between an adult, an infant under one year, and a pregnant or significantly obese patient?",
+    "back": "An adult or older child receives alternating cycles of back blows and abdominal thrusts, an infant under one year receives back blows combined with chest thrusts, and a pregnant or significantly obese patient receives chest thrusts instead of abdominal thrusts."
+  },
+  {
+    "id": 130,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What should be done if a responsive choking patient with a complete obstruction becomes unresponsive?",
+    "back": "Begin chest compressions, checking the mouth for a visible object before each set of rescue breaths and removing it only if visible and safely retrievable, never with a blind finger sweep."
+  },
+  {
+    "id": 131,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is a supraglottic airway device, and when is it used?",
+    "back": "A device that sits above the vocal cords rather than being inserted through them, used as an alternative to more invasive airway management when BVM ventilation alone is inadequate or a definitive airway cannot be achieved."
+  },
+  {
+    "id": 132,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "When is a rigid suction catheter preferred over a flexible one?",
+    "back": "A rigid tonsil-tip catheter is preferred for the oropharynx because its larger bore clears thick material such as vomitus quickly, while a flexible catheter suits the nasopharynx or suctioning through an airway adjunct."
+  },
+  {
+    "id": 133,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "How long should a single adult suctioning attempt generally last, and when is suction applied?",
+    "back": "About 10 to 15 seconds at a time, applied only while withdrawing the catheter, never on insertion, followed by reoxygenation before another attempt if needed."
+  },
+  {
+    "id": 134,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "Name four indications for administering supplemental oxygen in the field.",
+    "back": "Signs of hypoxia such as a low SpO2 reading, cyanosis, altered level of consciousness with a respiratory or perfusion cause, respiratory distress, cardiac chest pain, shock, or significant trauma."
+  },
+  {
+    "id": 135,
+    "domain": "patient_assessment_and_airway_management",
+    "front": "What is the most reliable BVM technique for achieving a good mask seal, and what should be watched to judge ventilation adequacy?",
+    "back": "A two-person technique where one provider maintains the seal with both hands using a C-E grip while the other squeezes the bag, watching for visible chest rise rather than judging adequacy by feel alone."
+  },
+  {
+    "id": 136,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What are the four phases of pharmacokinetics?",
+    "back": "Absorption, distribution, metabolism, and excretion, together describing how a drug moves through and is eventually cleared from the body."
+  },
+  {
+    "id": 137,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Why does an IV medication have the fastest, most predictable onset of any route?",
+    "back": "It bypasses absorption entirely because it is injected directly into the bloodstream, so the full dose is available to act immediately."
+  },
+  {
+    "id": 138,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Why do sublingual medications like nitroglycerin act quickly?",
+    "back": "The tissue under the tongue is thin and highly vascular and it bypasses first-pass metabolism in the liver, so the drug reaches the bloodstream rapidly and at full strength."
+  },
+  {
+    "id": 139,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "A patient in shock has poorly perfused tissue. How does this affect drug distribution?",
+    "back": "Poorly perfused tissue receives medication more slowly and unpredictably, which is one reason hypoperfused patients can respond unexpectedly to a standard dose."
+  },
+  {
+    "id": 140,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What organ does most drug metabolism occur in, and what happens if it is diseased?",
+    "back": "The liver metabolizes most drugs into usually less active metabolites; significant liver disease can slow this process and prolong the drug's effect."
+  },
+  {
+    "id": 141,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the main route of drug excretion, and why does renal impairment matter?",
+    "back": "Most drugs and their metabolites are excreted through the kidneys and urine; renal impairment can cause a drug to accumulate to dangerous levels in the body."
+  },
+  {
+    "id": 142,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Distinguish an agonist from an antagonist and give the AEMCA example of an antagonist.",
+    "back": "An agonist binds a receptor and produces a response, while an antagonist binds a receptor and blocks the normal response. Naloxone is the classic antagonist example: it binds opioid receptors without activating them, displacing opioids and reversing respiratory depression."
+  },
+  {
+    "id": 143,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Which route is used for oral glucose in an alert hypoglycemic patient, and why is it chosen for that indication?",
+    "back": "The oral (PO) route, since the patient is alert and can safely swallow and protect their airway; it is the slowest common route but works well when speed is less critical than airway safety."
+  },
+  {
+    "id": 144,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What device delivers naloxone by the intranasal route, and why is this route commonly favoured?",
+    "back": "A mucosal atomization device (MAD) sprays the drug into the highly vascular nasal mucosa; it is favoured because it requires no needle and still provides a fast onset."
+  },
+  {
+    "id": 145,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "List the standard rights of medication administration a PCP confirms before giving any drug.",
+    "back": "Right patient, right medication, right dose, right route, right time, and right documentation, with some programs also including right indication and the patient's right to refuse."
+  },
+  {
+    "id": 146,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Why is nitroglycerin withheld from a patient who has taken sildenafil or tadalafil within the past 24 to 48 hours?",
+    "back": "Combining nitroglycerin with a phosphodiesterase inhibitor can cause profound, refractory hypotension, since both drugs lower blood pressure through related vascular pathways."
+  },
+  {
+    "id": 147,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Name a common side effect each of salbutamol and diphenhydramine.",
+    "back": "Salbutamol commonly causes tachycardia and tremor from its beta-agonist action, while diphenhydramine commonly causes drowsiness because it crosses into the central nervous system."
+  },
+  {
+    "id": 148,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Roughly what percentage of inspired oxygen does a non-rebreather mask deliver with the reservoir bag inflated?",
+    "back": "Close to 90 to 100 percent inspired oxygen, making it a high-flow delivery device compared with a nasal cannula's 24 to 44 percent."
+  },
+  {
+    "id": 149,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the adult IM epinephrine dose for anaphylaxis, and what concentration is used?",
+    "back": "0.3 to 0.5 mg IM using the 1:1000 concentration (1 mg/mL), injected into the anterolateral thigh and repeated after 5 to 15 minutes if the patient does not improve."
+  },
+  {
+    "id": 150,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "A 20 kg child in anaphylaxis needs weight-based epinephrine 1:1000 IM at 0.01 mg/kg. What volume is given?",
+    "back": "0.01 mg/kg times 20 kg equals a 0.2 mg dose; at 1 mg/mL that is 0.2 mL, well under the 0.5 mg maximum single pediatric dose."
+  },
+  {
+    "id": 151,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is infiltration, and how does it present?",
+    "back": "Infiltration occurs when the catheter slips out of the vein and fluid or medication is delivered into surrounding tissue instead of the bloodstream, producing swelling, coolness, and discomfort without the expected blood return on aspiration; the infusion should be stopped and the catheter removed."
+  },
+  {
+    "id": 152,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the standard adult cardiac arrest dose of epinephrine, and what concentration is used?",
+    "back": "1 mg IV or IO using the 1:10,000 concentration (0.1 mg/mL), repeated every 3 to 5 minutes per the ALS PCS."
+  },
+  {
+    "id": 153,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Using 1:10,000 epinephrine at 0.1 mg/mL, what volume delivers the standard 1 mg adult cardiac arrest dose?",
+    "back": "1 mg divided by 0.1 mg/mL equals 10 mL, ten times the volume that the more concentrated 1:1000 anaphylaxis solution would require for the same mass of drug."
+  },
+  {
+    "id": 154,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the standard adult unit dose of nebulized salbutamol, and what condition is it used for?",
+    "back": "5 mg mixed with normal saline and delivered by nebulizer mask, used for bronchospasm from asthma, COPD exacerbation, or other reactive airway presentations."
+  },
+  {
+    "id": 155,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the standard adult dose of ASA for suspected acute coronary syndrome, and why is it chewed rather than swallowed whole?",
+    "back": "160 to 162 mg, typically two 81 mg chewable tablets; chewing lets the drug reach the bloodstream faster through the buccal mucosa and stomach rather than passing through slower GI absorption."
+  },
+  {
+    "id": 156,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "How does ASA help in suspected acute coronary syndrome, and what are its key contraindications?",
+    "back": "It works as an antiplatelet agent, reducing platelet clumping and limiting extension of a coronary clot; it is withheld with known ASA or NSAID allergy, active gastrointestinal bleeding, or a bleeding disorder."
+  },
+  {
+    "id": 157,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is the standard adult sublingual nitroglycerin dose, and how does it improve chest discomfort from cardiac ischemia?",
+    "back": "0.4 mg per spray or tablet, repeated every 5 minutes up to the protocol maximum if blood pressure stays adequate; it dilates venous and coronary vessels, lowering cardiac preload and improving coronary blood flow."
+  },
+  {
+    "id": 158,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "How does glucagon raise blood sugar, and when is it chosen over oral glucose?",
+    "back": "It stimulates the liver to break down stored glycogen into glucose over several minutes; it is chosen for a hypoglycemic patient who cannot safely swallow and has no IV access, since anything given orally to such a patient risks aspiration."
+  },
+  {
+    "id": 159,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "A pediatric protocol calls for a 0.5 mg glucagon dose from a vial reconstituted to 1 mg per 1 mL. What volume is drawn up?",
+    "back": "0.5 mg divided by 1 mg/mL equals 0.5 mL."
+  },
+  {
+    "id": 160,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is a common adult starting dose range for naloxone, and by what routes can it be given?",
+    "back": "0.4 to 0.8 mg, repeated every few minutes if respiratory rate and depth do not improve, given intranasally, intramuscularly, or intravenously."
+  },
+  {
+    "id": 161,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "A patient needs an 0.8 mg intranasal naloxone dose from a vial concentrated at 0.4 mg/mL. What volume is administered?",
+    "back": "0.8 mg divided by 0.4 mg/mL equals 2 mL."
+  },
+  {
+    "id": 162,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Why should naloxone be titrated to restore adequate breathing rather than full alertness whenever possible?",
+    "back": "Because naloxone reverses opioid sedation abruptly, patients can wake agitated or combative, so dosing to just restore adequate ventilation avoids an unnecessarily jarring reversal while still treating the danger."
+  },
+  {
+    "id": 163,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Why is diphenhydramine never a substitute for epinephrine in true anaphylaxis?",
+    "back": "Diphenhydramine treats histamine-driven itching and hives but does not reverse airway swelling or cardiovascular collapse, effects only epinephrine addresses; it is used only as an adjunct alongside epinephrine."
+  },
+  {
+    "id": 164,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is dimenhydrinate used for, and how does it differ from ondansetron in its side effect profile?",
+    "back": "Dimenhydrinate is an antihistamine and antiemetic used for nausea and vomiting, particularly motion-related or vertigo-associated nausea, and like diphenhydramine can cause drowsiness; ondansetron is a serotonin antagonist antiemetic that treats nausea without that sedating effect."
+  },
+  {
+    "id": 165,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "Which peripheral veins are preferred for IV cannulation, and why is the antecubital fossa less ideal despite its large veins?",
+    "back": "The dorsal veins of the hand, the cephalic and basilic veins of the forearm, and the antecubital fossa veins at the elbow crease; the antecubital fossa offers easy access but movement at the elbow can dislodge the catheter."
+  },
+  {
+    "id": 166,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What is phlebitis, and what does it look like on exam?",
+    "back": "Phlebitis is inflammation of the vein, caused by mechanical or chemical irritation or infection, presenting as redness, warmth, tenderness, and a palpable cord along the affected vein."
+  },
+  {
+    "id": 167,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "At what angle and bevel orientation is an IV catheter-over-needle typically inserted?",
+    "back": "At a shallow angle, commonly 10 to 30 degrees, bevel up, until a flashback confirms venous entry, after which the catheter is advanced while the needle is withdrawn."
+  },
+  {
+    "id": 168,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "What aseptic technique steps must a paramedic follow for every IV attempt?",
+    "back": "Wear gloves, clean the site and let it dry before puncture, never touch the cleaned site with an ungloved or contaminated finger, and dispose of the needle immediately into an approved sharps container without recapping it."
+  },
+  {
+    "id": 169,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "How does an air embolism occur during IV therapy, and what does it cause?",
+    "back": "Air enters the venous system, most often through poorly primed tubing or a loose connection, and can travel to the heart and lungs, causing sudden dyspnea, chest pain, and cardiovascular compromise; careful priming and monitoring of connections prevents it."
+  },
+  {
+    "id": 170,
+    "domain": "pharmacology_and_iv_therapy",
+    "front": "A patient needs 250 mL of normal saline infused over 60 minutes with tubing at a drop factor of 10 gtt/mL. What is the flow rate in gtt/min?",
+    "back": "250 mL times 10 gtt/mL divided by 60 minutes equals approximately 41.7, rounded to 42 gtt/min."
+  },
+  {
+    "id": 171,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Where is the heart located within the thorax?",
+    "back": "The heart is a four chamber muscular pump located in the mediastinum, slightly left of the sternal midline."
+  },
+  {
+    "id": 172,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why is the left ventricle the most muscular chamber of the heart?",
+    "back": "The left ventricle must generate enough pressure to push blood through the entire systemic circulation, so its wall is thicker and more muscular than the other three chambers."
+  },
+  {
+    "id": 173,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Name the two atrioventricular valves and where each sits.",
+    "back": "The tricuspid valve sits between the right atrium and right ventricle, and the mitral (bicuspid) valve sits between the left atrium and left ventricle."
+  },
+  {
+    "id": 174,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Name the two semilunar valves and where each sits.",
+    "back": "The pulmonic valve sits at the exit of the right ventricle, and the aortic valve sits at the exit of the left ventricle."
+  },
+  {
+    "id": 175,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Trace the path of deoxygenated blood from the right atrium to the pulmonary circulation.",
+    "back": "Deoxygenated blood enters the right atrium, passes through the tricuspid valve into the right ventricle, and is pumped through the pulmonic valve toward the lungs for gas exchange."
+  },
+  {
+    "id": 176,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Trace the path of oxygenated blood from the pulmonary veins to the aorta.",
+    "back": "Oxygenated blood returns through the pulmonary veins into the left atrium, passes through the mitral valve into the left ventricle, and is pumped through the aortic valve into the aorta for distribution to the body."
+  },
+  {
+    "id": 177,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is the heart's primary pacemaker and what is its intrinsic rate?",
+    "back": "The sinoatrial (SA) node, located in the upper right atrium, is the heart's primary pacemaker, with an intrinsic rate of about 60 to 100 beats per minute."
+  },
+  {
+    "id": 178,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What role does the AV node play in the conduction system?",
+    "back": "The AV node briefly delays the impulse from the SA node so the atria finish emptying into the ventricles before ventricular contraction begins, and it serves as a backup pacemaker at about 40 to 60 beats per minute if the SA node fails."
+  },
+  {
+    "id": 179,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the pathway the electrical impulse follows after leaving the AV node.",
+    "back": "The impulse travels down the bundle of His, splits into the right and left bundle branches, and spreads through the Purkinje fibers, triggering ventricular contraction."
+  },
+  {
+    "id": 180,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is the intrinsic backup rate of the Purkinje system, and what is this rhythm sometimes called?",
+    "back": "The Purkinje system has the slowest backup rate, about 20 to 40 beats per minute, sometimes called an idioventricular rhythm."
+  },
+  {
+    "id": 181,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Which areas of the heart does the right coronary artery typically supply?",
+    "back": "The right coronary artery (RCA) typically supplies the right atrium, right ventricle, and in most people the inferior wall of the left ventricle and the AV node."
+  },
+  {
+    "id": 182,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What territories do the LAD and left circumflex arteries supply?",
+    "back": "The left anterior descending (LAD) artery supplies the anterior wall and much of the septum, while the left circumflex artery supplies the lateral wall of the left ventricle."
+  },
+  {
+    "id": 183,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Define stroke volume and cardiac output, with typical values.",
+    "back": "Stroke volume is the blood ejected by the left ventricle per contraction, typically 60 to 100 millilitres at rest. Cardiac output is stroke volume multiplied by heart rate, normally roughly 4 to 6 litres per minute."
+  },
+  {
+    "id": 184,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Distinguish preload, afterload, and contractility.",
+    "back": "Preload is the volume stretching the ventricle at the end of diastole. Afterload is the resistance the ventricle must pump against, largely from systemic vascular resistance and arterial pressure. Contractility is the intrinsic strength of contraction, independent of preload or afterload."
+  },
+  {
+    "id": 185,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is atherosclerosis, and what is the most common mechanism behind an acute myocardial infarction?",
+    "back": "Atherosclerosis is the progressive buildup of fatty plaque within artery walls that narrows and stiffens vessels over years. When a coronary plaque ruptures it can trigger a clot that suddenly occludes the vessel, the most common mechanism behind acute myocardial infarction."
+  },
+  {
+    "id": 186,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "List the major risk factors for atherosclerosis.",
+    "back": "Risk factors include smoking, hypertension, diabetes, high cholesterol, obesity, sedentary lifestyle, and family history."
+  },
+  {
+    "id": 187,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Distinguish ischemia from infarction.",
+    "back": "Ischemia is a temporary reduction in blood flow and oxygen delivery that causes pain and dysfunction but does not necessarily cause permanent cell death if flow is restored quickly. Infarction is actual tissue death from prolonged, complete loss of flow."
+  },
+  {
+    "id": 188,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What happens to cardiac muscle cells after they infarct, and why does this make time critical?",
+    "back": "Infarcted cardiac muscle cells do not regenerate, they are replaced by scar tissue, which is why rapid transport for suspected myocardial infarction is one of the most time critical interventions a paramedic performs, captured by the phrase \"time is muscle.\""
+  },
+  {
+    "id": 189,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What causes the signs and symptoms of left sided heart failure?",
+    "back": "Left sided heart failure causes blood to back up into the pulmonary circulation, leading to pulmonary edema, shortness of breath, orthopnea, crackles on lung auscultation, and often anxiety from air hunger."
+  },
+  {
+    "id": 190,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What causes the signs and symptoms of right sided heart failure?",
+    "back": "Right sided heart failure causes blood to back up into the systemic venous circulation, leading to peripheral edema, jugular venous distension, and hepatic congestion."
+  },
+  {
+    "id": 191,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How does left sided heart failure typically lead to right sided heart failure over time?",
+    "back": "A failing left ventricle raises pressure that backs up through the lungs and strains the right side of the heart, so left sided failure is the more common cause of right sided failure over time."
+  },
+  {
+    "id": 192,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What distinguishes a true hypertensive emergency from simply having a high blood pressure reading?",
+    "back": "A hypertensive emergency involves blood pressure high enough to cause or threaten acute organ damage to the brain, heart, kidneys, or eyes, unlike an asymptomatic high reading with no symptoms."
+  },
+  {
+    "id": 193,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What signs suggest a true hypertensive emergency?",
+    "back": "Signs can include severe headache, altered mental status, visual disturbance, chest pain, or signs of stroke, and these patients need prompt transport and monitoring rather than aggressive prehospital blood pressure lowering."
+  },
+  {
+    "id": 194,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is cardiac tamponade, and what is the classic triad of findings?",
+    "back": "Cardiac tamponade occurs when fluid, often blood, accumulates in the pericardial sac faster than it can be absorbed, compressing the heart and restricting diastolic filling. The classic Beck triad is muffled heart sounds, jugular venous distension, and hypotension, along with narrowing pulse pressure and pulsus paradoxus."
+  },
+  {
+    "id": 195,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What two general mechanisms give rise to dysrhythmias?",
+    "back": "Dysrhythmias arise from problems with impulse formation, such as an abnormal ectopic focus firing instead of the SA node, or problems with conduction, such as a block, delay, or re-entry circuit."
+  },
+  {
+    "id": 196,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Compare 3-lead and 12-lead ECG configurations.",
+    "back": "A 3-lead configuration uses electrodes on the right arm, left arm, and left leg for continuous rhythm monitoring during transport. A 12-lead adds six chest (precordial) leads to generate twelve views of the heart's electrical activity and is essential for localizing ischemia and recognizing STEMI."
+  },
+  {
+    "id": 197,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Explain the 6 second method for estimating heart rate from an ECG strip.",
+    "back": "The 6 second method counts the number of QRS complexes in a 6 second strip and multiplies that count by 10; it is generally the most reliable method for irregular rhythms."
+  },
+  {
+    "id": 198,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Explain the large box and small box methods for estimating heart rate.",
+    "back": "The large box method divides 300 by the number of large boxes between two consecutive R waves. The small box method divides 1500 by the small boxes between R waves for more precision. Both suit regular rhythms."
+  },
+  {
+    "id": 199,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "List the four steps of a systematic rhythm analysis approach.",
+    "back": "First assess regularity by comparing R wave spacing, second identify whether consistent P waves precede each QRS, third measure the PR interval, and fourth measure QRS width."
+  },
+  {
+    "id": 200,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is a normal PR interval, and what does it represent?",
+    "back": "A normal PR interval is 0.12 to 0.20 seconds (120 to 200 milliseconds), reflecting conduction time through the AV node."
+  },
+  {
+    "id": 201,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is a normal QRS duration, and what does a widened QRS suggest?",
+    "back": "A normal QRS duration is less than 0.12 seconds (120 milliseconds). A widened QRS suggests the impulse originates from or is conducted abnormally through ventricular tissue rather than the normal conduction pathway."
+  },
+  {
+    "id": 202,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG features of normal sinus rhythm.",
+    "back": "Normal sinus rhythm shows a regular rate between 60 and 100 beats per minute, a normal upright P wave before every QRS, a normal PR interval, and a narrow QRS."
+  },
+  {
+    "id": 203,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How do sinus tachycardia and sinus bradycardia differ from normal sinus rhythm?",
+    "back": "Sinus tachycardia is a sinus rhythm faster than 100 beats per minute and sinus bradycardia is a sinus rhythm slower than 60; both retain a normal P wave before every QRS and a normal PR interval, only the rate is outside range."
+  },
+  {
+    "id": 204,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Give common causes of sinus tachycardia and explain why treating the rate alone is usually wrong.",
+    "back": "Sinus tachycardia is often compensatory, a response to pain, fever, anxiety, dehydration, blood loss, or hypoxia, so the underlying cause needs treatment rather than the rate itself."
+  },
+  {
+    "id": 205,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What determines whether sinus bradycardia needs treatment?",
+    "back": "Sinus bradycardia may be normal in a fit athlete or may reflect increased vagal tone, hypoxia, or certain medications, and management depends on whether the patient is symptomatic, such as hypotensive, altered, or in shock, or not."
+  },
+  {
+    "id": 206,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG appearance of atrial fibrillation.",
+    "back": "Atrial fibrillation appears as an irregularly irregular rhythm with no discernible, consistent P waves, often replaced by a fine or coarse fibrillatory baseline, reflecting chaotic, disorganized atrial electrical activity."
+  },
+  {
+    "id": 207,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why can the ventricular rate in atrial fibrillation vary from slow to rapid?",
+    "back": "The ventricular rate depends on how many of the chaotic atrial impulses conduct through the AV node, so it can be slow, normal, or rapid."
+  },
+  {
+    "id": 208,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG features of supraventricular tachycardia (SVT) and the mechanism that usually produces it.",
+    "back": "SVT is a fast, regular rhythm, usually well over 150 beats per minute, with P waves frequently absent or hidden in the preceding T wave, and a typically narrow QRS. It often arises from a re-entry circuit involving the AV node."
+  },
+  {
+    "id": 209,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG features of ventricular tachycardia (VT).",
+    "back": "VT is a rapid, often regular rhythm with wide, bizarre looking QRS complexes and no clearly associated P waves, originating from an irritable focus or re-entry circuit within the ventricles that bypasses the normal conduction system."
+  },
+  {
+    "id": 210,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How does management of pulseless VT differ from VT with a pulse?",
+    "back": "Pulseless VT is treated as a shockable cardiac arrest rhythm, while VT with a pulse may be stable or unstable depending on blood pressure, level of consciousness, and signs of poor perfusion."
+  },
+  {
+    "id": 211,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG appearance of ventricular fibrillation (VF).",
+    "back": "VF shows an erratic waveform with no identifiable P waves, QRS complexes, or T waves, reflecting chaotic, disorganized electrical activity throughout the ventricles with no organized contraction."
+  },
+  {
+    "id": 212,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Is VF ever seen with a pulse, and what is the immediate treatment?",
+    "back": "There is no cardiac output in VF, it is always a pulseless, life threatening rhythm requiring immediate defibrillation."
+  },
+  {
+    "id": 213,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is asystole, and what must be checked before confirming it?",
+    "back": "Asystole is the complete absence of detectable electrical activity, appearing as a flat or nearly flat line; before confirming it, paramedics must check lead connections, gain, and a second lead view, since fine VF can resemble a flat line in one lead."
+  },
+  {
+    "id": 214,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Define pulseless electrical activity (PEA).",
+    "back": "PEA describes any organized rhythm on the monitor that would normally be expected to produce a pulse, occurring in a patient with no palpable pulse; it is not a specific waveform but a clinical situation where electrical and mechanical activity have become disconnected, often from a reversible cause."
+  },
+  {
+    "id": 215,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the ECG finding in first degree AV block.",
+    "back": "First degree AV block shows a prolonged but constant PR interval greater than 0.20 seconds, with every P wave still followed by a QRS."
+  },
+  {
+    "id": 216,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the two patterns of second degree AV block.",
+    "back": "One pattern shows the PR interval progressively lengthening until a QRS drops entirely, and the other shows a constant PR interval but with QRS complexes intermittently dropped."
+  },
+  {
+    "id": 217,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What defines third degree (complete) AV block?",
+    "back": "In third degree AV block, no atrial impulses reach the ventricles at all, so the atria and ventricles beat independently, each at their own intrinsic rate."
+  },
+  {
+    "id": 218,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "A patient's strip shows a regular narrow QRS rhythm at 88 beats per minute with a normal upright P wave before every QRS and a PR interval of 0.16 seconds. What rhythm is this?",
+    "back": "This is normal sinus rhythm: the rate falls within 60 to 100, every QRS is preceded by a normal P wave, the PR interval is within the normal 0.12 to 0.20 second range, and the QRS is narrow."
+  },
+  {
+    "id": 219,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "A strip shows a rapid, regular, wide QRS rhythm with no clear P waves in a patient who is pulseless. What rhythm is this and how is it treated?",
+    "back": "This is pulseless ventricular tachycardia, and it is treated as a shockable cardiac arrest rhythm with defibrillation."
+  },
+  {
+    "id": 220,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What rhythms is defibrillation indicated for, and why are asystole and PEA excluded?",
+    "back": "Defibrillation is indicated only for shockable rhythms, ventricular fibrillation and pulseless ventricular tachycardia. Asystole and PEA are never shocked because there is no chaotic electrical activity to interrupt, so management instead focuses on high quality CPR and identifying reversible causes."
+  },
+  {
+    "id": 221,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What happens to the heart's electrical activity during a defibrillation shock?",
+    "back": "Defibrillation delivers an unsynchronized electrical shock through the heart, momentarily stopping all electrical activity at once and allowing the heart's natural pacemaker, usually the SA node, to resume organized activity afterward."
+  },
+  {
+    "id": 222,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How does an AED differ from a manual defibrillator?",
+    "back": "An AED analyzes the rhythm itself and advises whether a shock is indicated using voice and visual prompts, designed for both trained providers and lay rescuers, while a manual defibrillator lets the paramedic view the rhythm directly and make the clinical decision to shock."
+  },
+  {
+    "id": 223,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What safety checks must be completed before delivering a defibrillation shock?",
+    "back": "The rescuer must ensure no one is touching the patient, verbally and visually clear the area, avoid contact with excess water or metal, and check that supplemental oxygen is not aimed across the chest during the shock."
+  },
+  {
+    "id": 224,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Describe the two acceptable defibrillation pad placement positions.",
+    "back": "Pads can be placed in the anterolateral position, upper right chest below the clavicle and lower left mid axillary line, or the anteroposterior position, anterior chest and posterior back; both pass current through the heart's mass."
+  },
+  {
+    "id": 225,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How does synchronized cardioversion differ from standard defibrillation, and when is it used?",
+    "back": "Synchronized cardioversion times the shock to the R wave, avoiding the vulnerable T wave when a poorly timed shock could trigger VF. It is used for unstable tachyarrhythmias with a pulse, such as unstable SVT, unstable atrial fibrillation with rapid ventricular response, or unstable VT with a pulse."
+  },
+  {
+    "id": 226,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why can unsynchronized defibrillation never be used for a rhythm with a pulse the way synchronized cardioversion can?",
+    "back": "Unsynchronized defibrillation is reserved for pulseless, chaotic rhythms like VF and pulseless VT, where there is no organized QRS to synchronize to at all."
+  },
+  {
+    "id": 227,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What history-gathering approach is used for suspected cardiac chest pain?",
+    "back": "Paramedics use an approach such as OPQRST, covering onset, provocation, quality, radiation, severity, and timing, alongside relevant past medical history, medications, and allergies."
+  },
+  {
+    "id": 228,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How is classic cardiac chest pain typically described, and who may present atypically?",
+    "back": "Classic cardiac chest pain is often described as pressure, tightness, or heaviness rather than sharp pain, and may radiate to the jaw, neck, shoulder, or arm; women, older adults, and people with diabetes may present atypically, with fatigue, nausea, or shortness of breath and little chest discomfort."
+  },
+  {
+    "id": 229,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How should ASA be administered under the suspected cardiac ischemia protocol, and why?",
+    "back": "Acetylsalicylic acid (ASA) is chewed rather than swallowed whole for faster absorption, provided there is no contraindication such as a true allergy or active bleeding concern."
+  },
+  {
+    "id": 230,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How should supplemental oxygen be applied during a suspected cardiac event?",
+    "back": "Oxygen is titrated to maintain adequate saturation rather than applied routinely, since excess supplemental oxygen in an already well saturated patient offers no benefit and may be harmful."
+  },
+  {
+    "id": 231,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What must be checked before giving nitroglycerin, and when is it withheld?",
+    "back": "Blood pressure must be checked first; nitroglycerin is withheld in patients who are hypotensive or who have recently used erectile dysfunction medications, due to the risk of a severe drop in blood pressure."
+  },
+  {
+    "id": 232,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why is acquiring a 12-lead ECG early such a priority in suspected cardiac ischemia?",
+    "back": "ST segment elevation consistent with STEMI lets the receiving hospital prepare for rapid intervention, and many systems allow prehospital transmission ahead of arrival, supporting rapid transport since delays in restoring blood flow worsen outcomes."
+  },
+  {
+    "id": 233,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is the foundation of cardiac arrest management, and what does high quality CPR require?",
+    "back": "High quality CPR is the foundation of cardiac arrest management, since chest compressions maintain any blood flow to the brain and heart during arrest; it requires an adequate rate and depth, allowing full chest recoil, and minimizing interruptions."
+  },
+  {
+    "id": 234,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What is the standard adult compression to ventilation ratio without an advanced airway, and how does this change once one is placed?",
+    "back": "The standard adult ratio without an advanced airway is 30 compressions to 2 ventilations. Once an advanced airway, such as a supraglottic device or endotracheal tube, is in place, compressions become continuous without pausing for breaths, with ventilations delivered at a steady rate independent of the compression cycle."
+  },
+  {
+    "id": 235,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why should interruptions to chest compressions be kept as brief as possible?",
+    "back": "Even short pauses, such as for rhythm checks or shock delivery, reduce perfusion pressure that takes time to rebuild, so interruptions should be minimized."
+  },
+  {
+    "id": 236,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "Why is epinephrine given during cardiac arrest, and how often is it typically repeated?",
+    "back": "Epinephrine increases coronary and cerebral perfusion pressure through its vasoconstrictive effect, typically given intravenously or intraosseously and repeated roughly every 3 to 5 minutes, per current medical direction."
+  },
+  {
+    "id": 237,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "List the Hs and Ts of reversible cardiac arrest causes.",
+    "back": "The Hs are hypovolemia, hypoxia, hydrogen ion excess (acidosis), hypo or hyperkalemia, and hypothermia. The Ts are tension pneumothorax, cardiac tamponade, toxins, and thrombosis, whether coronary or pulmonary."
+  },
+  {
+    "id": 238,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How does acute heart failure with pulmonary edema typically present?",
+    "back": "It presents with significant respiratory distress, often sudden in onset, the patient preferring to sit upright, using accessory muscles, showing anxiety from air hunger, with crackles on auscultation and sometimes pink, frothy sputum."
+  },
+  {
+    "id": 239,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "How is acute heart failure with pulmonary edema managed in the field?",
+    "back": "Management focuses on positioning the patient upright with legs dependent, providing oxygen or ventilatory support up to and including CPAP where available, following protocol guidance on medications that reduce cardiac workload, and reassessing respiratory status and vital signs."
+  },
+  {
+    "id": 240,
+    "domain": "cardiovascular_system_and_ecg",
+    "front": "What should prehospital management of a hypertensive emergency focus on?",
+    "back": "Paramedics should assess for neurological changes, visual disturbance, chest pain, or shortness of breath alongside the reading, obtain a full set of vital signs, and provide supportive care and rapid transport, since aggressive prehospital blood pressure reduction outside specific protocol guidance can be dangerous."
+  },
+  {
+    "id": 241,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What structures make up the upper airway?",
+    "back": "The nose, mouth, pharynx (nasopharynx, oropharynx, and laryngopharynx), and larynx make up the upper airway."
+  },
+  {
+    "id": 242,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the function of the epiglottis?",
+    "back": "The epiglottis is a leaf-shaped flap of cartilage that folds over the tracheal opening during swallowing to prevent aspiration of food or liquid into the lower airway."
+  },
+  {
+    "id": 243,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why is the tongue the most common cause of airway obstruction in an unconscious patient?",
+    "back": "In an unconscious patient the tongue can fall posteriorly against the pharyngeal wall, making the upper airway the most common site of obstruction."
+  },
+  {
+    "id": 244,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why do aspirated foreign bodies and misplaced endotracheal tubes tend to end up in the right lung?",
+    "back": "The right mainstem bronchus is shorter, wider, and more vertically oriented than the left, so aspirated objects and misplaced tubes tend to travel into the right lung."
+  },
+  {
+    "id": 245,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Where does gas exchange actually take place in the lungs?",
+    "back": "Gas exchange occurs in the alveoli, the microscopic air sacs at the end of the bronchioles, across the thin alveolar-capillary membrane."
+  },
+  {
+    "id": 246,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Describe the mechanics of inhalation.",
+    "back": "The diaphragm contracts and flattens, the external intercostals lift the ribs, and the thoracic cavity expands, dropping intrathoracic pressure below atmospheric pressure and drawing air in, a process called negative-pressure ventilation."
+  },
+  {
+    "id": 247,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Which muscles are recruited when the work of breathing increases, and why does their use matter clinically?",
+    "back": "The sternocleidomastoids and scalenes are recruited as accessory muscles when breathing becomes harder, and visible use of these muscles is one of the clearest field signs of respiratory distress."
+  },
+  {
+    "id": 248,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What two processes must be matched for effective gas exchange to occur?",
+    "back": "Ventilation, the movement of air in and out of the alveoli, must be reasonably matched with perfusion, the blood flow through the pulmonary capillaries, a relationship often called the ventilation-perfusion match."
+  },
+  {
+    "id": 249,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What three processes cause the airway narrowing seen in asthma?",
+    "back": "Asthma narrows the airways through bronchospasm, mucosal edema, and increased mucus production, all of which raise airway resistance."
+  },
+  {
+    "id": 250,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why does asthma classically cause expiratory wheezing rather than difficulty breathing in?",
+    "back": "Air can usually be drawn in past the narrowed airways but struggles to get back out, trapping air in the alveoli and increasing lung volume, which produces expiratory wheezing."
+  },
+  {
+    "id": 251,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why is a silent chest during a severe asthma attack an ominous sign rather than a sign of improvement?",
+    "back": "In a severe attack airflow can drop so low that it no longer generates turbulent sound, so the wheeze disappears even though the patient is deteriorating, not improving."
+  },
+  {
+    "id": 252,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What two conditions does the umbrella term COPD cover?",
+    "back": "COPD covers chronic bronchitis and emphysema, both usually caused by long-term exposure to cigarette smoke or occupational irritants."
+  },
+  {
+    "id": 253,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How does chronic bronchitis typically present, and what informal nickname describes it?",
+    "back": "Chronic bronchitis causes a chronic productive cough and often a bluish, cyanotic appearance from chronic hypoxemia, sometimes informally called a blue bloater presentation."
+  },
+  {
+    "id": 254,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What underlying process causes emphysema, and how does it present?",
+    "back": "Emphysema involves destruction of the alveolar walls and loss of elastic recoil, trapping air in the lungs and producing a barrel-chested appearance with pursed-lip breathing, sometimes called a pink puffer presentation."
+  },
+  {
+    "id": 255,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Should oxygen be withheld from a hypoxic COPD patient out of concern for hypoxic drive?",
+    "back": "No. Untreated hypoxia is immediately life-threatening, so oxygen should still be given but titrated to an appropriate target saturation with close monitoring of respiratory effort."
+  },
+  {
+    "id": 256,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How does pneumonia impair gas exchange?",
+    "back": "Pneumonia is an infection of the lung parenchyma that fills the alveoli with inflammatory fluid, pus, and cellular debris, and this consolidation impairs gas exchange in the affected lung segment."
+  },
+  {
+    "id": 257,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Where does the thrombus causing a pulmonary embolism most commonly originate?",
+    "back": "A pulmonary embolism most commonly originates as a thrombus in the deep veins of the legs that travels through the venous system and lodges in the pulmonary arterial circulation."
+  },
+  {
+    "id": 258,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "List the classic findings of pulmonary embolism.",
+    "back": "Classic findings include sudden-onset pleuritic chest pain, dyspnea, tachycardia, and in some cases hemoptysis, though presentation varies widely."
+  },
+  {
+    "id": 259,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the difference between an open pneumothorax and a tension pneumothorax?",
+    "back": "An open pneumothorax involves a chest wound that communicates directly with the pleural space, letting air move freely in and out; a tension pneumothorax involves a one-way valve effect that lets air enter but not escape, progressively building pressure."
+  },
+  {
+    "id": 260,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What happens physiologically as a tension pneumothorax progresses if left untreated?",
+    "back": "Pressure builds progressively, collapsing the affected lung and eventually pushing the mediastinum toward the opposite side, kinking the great vessels, reducing venous return, and rapidly progressing to obstructive shock and cardiac arrest."
+  },
+  {
+    "id": 261,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the most common prehospital cause of pulmonary edema?",
+    "back": "Acute left-sided heart failure is the most common prehospital cause, since the failing left ventricle cannot keep pace with venous return, raising pulmonary capillary pressure and forcing fluid across the alveolar-capillary membrane."
+  },
+  {
+    "id": 262,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What are the typical presenting features of acute pulmonary edema?",
+    "back": "Severe dyspnea, orthopnea, diffuse crackles throughout the lung fields, pink frothy sputum in severe cases, and significant anxiety from the sensation of drowning in their own fluid."
+  },
+  {
+    "id": 263,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does the tripod position tell you about a patient's respiratory status?",
+    "back": "A patient who insists on sitting upright and leaning forward is signalling that their airway and breathing status is compromised."
+  },
+  {
+    "id": 264,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How do wheezes sound and what condition are they classically associated with?",
+    "back": "Wheezes are high-pitched musical sounds produced by air moving through narrowed airways and are classically associated with asthma and bronchospasm."
+  },
+  {
+    "id": 265,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What causes crackles (rales) and in which conditions are they heard?",
+    "back": "Crackles are discontinuous popping sounds caused by fluid in the alveoli or the sudden opening of collapsed small airways, and are heard in pulmonary edema and pneumonia."
+  },
+  {
+    "id": 266,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What are rhonchi and what causes them?",
+    "back": "Rhonchi are lower-pitched, rattling breath sounds caused by mucus or secretions in the larger airways, often clearing partially with coughing."
+  },
+  {
+    "id": 267,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does stridor indicate and why is it a true emergency?",
+    "back": "Stridor is a harsh, high-pitched sound heard primarily on inspiration that indicates upper airway obstruction and represents a true airway emergency requiring immediate intervention."
+  },
+  {
+    "id": 268,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How does salbutamol relieve bronchospasm and how is it typically delivered?",
+    "back": "Salbutamol stimulates beta-2 adrenergic receptors in bronchial smooth muscle, relaxing and dilating the airways; it is most commonly delivered by metered-dose inhaler with a spacer or by nebulizer."
+  },
+  {
+    "id": 269,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why can a diminishing wheeze combined with worsening distress be a dangerous sign after bronchodilator treatment?",
+    "back": "It can indicate progression toward a silent chest, meaning airflow is dropping too low to make sound, rather than true improvement, so work of breathing and oxygen saturation must be reassessed alongside breath sounds."
+  },
+  {
+    "id": 270,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the classic constellation of findings for tension pneumothorax?",
+    "back": "Severe respiratory distress, absent or markedly diminished breath sounds on the affected side, tracheal deviation away from the affected side in advanced cases, distended neck veins, and signs of obstructive shock such as hypotension and tachycardia."
+  },
+  {
+    "id": 271,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why should tracheal deviation not be relied upon as the sole criterion for diagnosing tension pneumothorax?",
+    "back": "Tracheal deviation is often a late finding in tension pneumothorax, so waiting for it risks missing the diagnosis earlier when other signs are already present."
+  },
+  {
+    "id": 272,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What defines a flail chest injury and what is paradoxical movement?",
+    "back": "Flail chest occurs when three or more adjacent ribs are each fractured in two or more places, creating a free-floating segment; that segment shows paradoxical movement, drawn inward during inhalation and pushed outward during exhalation."
+  },
+  {
+    "id": 273,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How should an occlusive dressing be applied to an open pneumothorax wound, and why?",
+    "back": "It should be taped on three sides, allowing air to escape the pleural space on exhalation while preventing air from being drawn in on inhalation, creating a functional one-way valve that reduces the risk of the wound converting into a tension pneumothorax."
+  },
+  {
+    "id": 274,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is pulmonary contusion and how does its symptom course differ from a simple rib fracture?",
+    "back": "Pulmonary contusion is bruising of the lung tissue causing localized bleeding and edema within the alveoli that impairs gas exchange; unlike a simple rib fracture, its symptoms may worsen progressively over the hours after injury rather than being maximal at the outset."
+  },
+  {
+    "id": 275,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why might a patient with suspected flail chest be allowed to lie on the injured side?",
+    "back": "Lying on the injured side can help splint the flail segment and reduce paradoxical movement, though spinal precautions and mechanism of injury must still be weighed alongside patient comfort."
+  },
+  {
+    "id": 276,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What are the two major divisions of the nervous system?",
+    "back": "The central nervous system, comprising the brain and spinal cord, and the peripheral nervous system, comprising the cranial nerves and spinal nerves connecting the CNS to the rest of the body."
+  },
+  {
+    "id": 277,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What are the primary functions of the cerebrum, cerebellum, and brainstem?",
+    "back": "The cerebrum handles higher cognitive function, voluntary movement, and sensory processing; the cerebellum coordinates balance and fine motor movement; the brainstem controls vital automatic functions including respiration and heart rate."
+  },
+  {
+    "id": 278,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How many pairs of cranial nerves arise from the brain and brainstem, and why is knowing their function useful in the field?",
+    "back": "Twelve pairs of cranial nerves arise from the brain and brainstem, and a deficit isolated to a specific cranial nerve distribution can help localize the site of a stroke or injury."
+  },
+  {
+    "id": 279,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How does the sympathetic nervous system change vital signs during the fight-or-flight response?",
+    "back": "It increases heart rate, dilates pupils, redirects blood flow to skeletal muscle, and increases respiratory rate."
+  },
+  {
+    "id": 280,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Which nerve mediates most parasympathetic rest-and-digest activity, and what effect does it have on heart rate?",
+    "back": "The vagus nerve mediates most parasympathetic activity and slows heart rate while promoting digestion."
+  },
+  {
+    "id": 281,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the difference between ischemic and hemorrhagic stroke?",
+    "back": "Ischemic stroke results from a thrombus or embolus occluding a cerebral artery and cutting off blood supply; hemorrhagic stroke results from a ruptured blood vessel bleeding into or around brain tissue, causing damage from both lost blood flow and direct pressure."
+  },
+  {
+    "id": 282,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Can paramedics reliably distinguish ischemic from hemorrhagic stroke on clinical grounds alone?",
+    "back": "No, both types can present with similar focal deficits, which is why rapid transport to a facility capable of definitive imaging is critical rather than attempting to guess the stroke type on scene."
+  },
+  {
+    "id": 283,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Describe the phases of a generalized tonic-clonic seizure.",
+    "back": "It typically progresses through a tonic phase of sustained muscle rigidity followed by a clonic phase of rhythmic jerking movements, often followed by a postictal period of altered consciousness, confusion, and fatigue lasting minutes to hours."
+  },
+  {
+    "id": 284,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Name several possible underlying causes of seizures besides epilepsy.",
+    "back": "Fever in young children, hypoglycemia, head trauma, stroke, toxic ingestion, alcohol withdrawal, and eclampsia in pregnancy can all cause seizures."
+  },
+  {
+    "id": 285,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is Cushing's triad and what does it indicate?",
+    "back": "Cushing's triad is rising blood pressure with a widening pulse pressure, a falling heart rate, and an irregular respiratory pattern; it indicates severe, advanced intracranial pressure elevation and often precedes herniation and death if not addressed urgently."
+  },
+  {
+    "id": 286,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the difference between primary and secondary traumatic brain injury?",
+    "back": "Primary injury occurs at the moment of impact, while secondary injury develops afterward from processes such as swelling, bleeding, hypoxia, and hypotension, all of which paramedics can influence through careful management."
+  },
+  {
+    "id": 287,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is coup-contrecoup injury?",
+    "back": "Coup-contrecoup injury describes brain damage occurring both at the site of direct impact and at the opposite side of the brain as it rebounds against the skull."
+  },
+  {
+    "id": 288,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "How does syncope differ from a seizure?",
+    "back": "Syncope is a transient loss of consciousness from a temporary reduction in cerebral blood flow, followed by spontaneous and complete recovery; it typically involves a brief loss of tone without prolonged convulsive activity and a rapid return to baseline mental status, unlike a seizure."
+  },
+  {
+    "id": 289,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Name common causes of syncope.",
+    "back": "Common causes include vasovagal episodes, orthostatic hypotension, cardiac dysrhythmias, and situational triggers such as coughing or straining."
+  },
+  {
+    "id": 290,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does the F in the FAST stroke screening framework stand for and what is assessed?",
+    "back": "F stands for Face, assessing for asymmetric drooping."
+  },
+  {
+    "id": 291,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does the A in FAST assess?",
+    "back": "A stands for Arms, assessing for unilateral drift or weakness when both arms are held out."
+  },
+  {
+    "id": 292,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does the S in FAST assess?",
+    "back": "S stands for Speech, assessing for slurring or word-finding difficulty."
+  },
+  {
+    "id": 293,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why is the T in FAST, Time, considered one of the single most important pieces of information to gather in a stroke call?",
+    "back": "The exact time the patient was last known to be well directly determines eligibility for time-sensitive hospital treatments."
+  },
+  {
+    "id": 294,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What three components make up the Glasgow Coma Scale?",
+    "back": "Eye opening, verbal response, and motor response, each scored independently and then summed to a total ranging from three to fifteen."
+  },
+  {
+    "id": 295,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is the range of possible Glasgow Coma Scale scores?",
+    "back": "The GCS total ranges from three, the lowest possible score, to fifteen, indicating a fully alert and oriented patient."
+  },
+  {
+    "id": 296,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why is a falling GCS score often more clinically significant than the absolute number itself?",
+    "back": "The GCS is used both to establish a baseline severity and to track trends over time, and a falling trend signals active neurological deterioration even if the current number still seems moderate."
+  },
+  {
+    "id": 297,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What two actions should always be avoided when managing an active convulsive seizure?",
+    "back": "Never restrain the convulsive movements and never place anything in the patient's mouth."
+  },
+  {
+    "id": 298,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What is status epilepticus and why is it a true emergency?",
+    "back": "Status epilepticus is a seizure lasting an extended period, or seizures occurring in rapid succession without full recovery between them, requiring prompt intervention within local protocols."
+  },
+  {
+    "id": 299,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "What does the AEIOU-TIPS mnemonic help paramedics organize?",
+    "back": "It organizes possible causes of altered level of consciousness, including alcohol, epilepsy or endocrine disturbance, insulin-related causes, overdose or oxygen deficiency, uremia, trauma, infection, psychiatric causes, and stroke or space-occupying lesion."
+  },
+  {
+    "id": 300,
+    "domain": "respiratory_and_nervous_systems",
+    "front": "Why does neurogenic shock present with hypotension and a normal or low heart rate instead of the tachycardia seen in hypovolemic shock?",
+    "back": "A cervical or high thoracic spinal cord injury disrupts sympathetic nervous system output, causing widespread vasodilation and loss of vascular tone, and the sympathetic pathways that would normally drive reflex tachycardia are themselves disrupted below the injury level."
+  },
+  {
+    "id": 301,
+    "domain": "other_body_systems",
+    "front": "What are the two hormone-producing cell types in the islets of Langerhans, and what does each secrete?",
+    "back": "Beta cells produce insulin, which moves glucose from the blood into cells and promotes glycogen storage. Alpha cells produce glucagon, which stimulates the liver to break down stored glycogen and release glucose into the blood."
+  },
+  {
+    "id": 302,
+    "domain": "other_body_systems",
+    "front": "Contrast the underlying cause of Type 1 and Type 2 diabetes.",
+    "back": "Type 1 diabetes is an autoimmune condition where the pancreas produces little or no insulin, usually diagnosed in childhood or young adulthood and requiring lifelong insulin. Type 2 diabetes usually develops gradually in adults from insulin resistance, where cells stop responding effectively to insulin even though the pancreas may still produce it."
+  },
+  {
+    "id": 303,
+    "domain": "other_body_systems",
+    "front": "Why do patients in diabetic ketoacidosis develop Kussmaul respirations?",
+    "back": "Severe insulin lack forces the body to break down fat for fuel, producing ketones that cause acidosis. Kussmaul breathing, deep and rapid respirations, is the body's attempt to blow off carbon dioxide and compensate for that acidosis."
+  },
+  {
+    "id": 304,
+    "domain": "other_body_systems",
+    "front": "List the classic presentation of a patient in diabetic ketoacidosis.",
+    "back": "Gradual onset over hours to days with Kussmaul breathing, a fruity or acetone breath odour, extreme thirst, frequent urination, abdominal pain, nausea and vomiting, warm dry skin, and progressive dehydration, with mental status deteriorating as it worsens."
+  },
+  {
+    "id": 305,
+    "domain": "other_body_systems",
+    "front": "What field management does DKA require from a paramedic?",
+    "back": "Supportive care only: high-flow oxygen if indicated, careful airway management given the risk of vomiting, cautious fluid administration per local protocol, and prompt transport, since definitive insulin therapy and electrolyte correction can only be delivered in hospital."
+  },
+  {
+    "id": 306,
+    "domain": "other_body_systems",
+    "front": "How quickly does hypoglycemia typically develop compared to hyperglycemia, and why is that dangerous?",
+    "back": "Hypoglycemia tends to develop quickly, sometimes within minutes, and is immediately dangerous because the brain is starved of its primary fuel source, unlike hyperglycemia which usually builds gradually over hours to days."
+  },
+  {
+    "id": 307,
+    "domain": "other_body_systems",
+    "front": "A patient with sudden confusion, cool clammy skin, tremor, and tachycardia is found. What condition should be suspected and what must be checked first?",
+    "back": "This presentation suggests hypoglycemia. Blood glucose measurement is mandatory whenever assessing a patient with altered level of consciousness, since hypoglycemia can mimic stroke, intoxication, or a psychiatric emergency."
+  },
+  {
+    "id": 308,
+    "domain": "other_body_systems",
+    "front": "How is severe hypoglycemia treated when a patient cannot safely swallow?",
+    "back": "Paramedics may administer glucose intravenously or, where authorized, glucagon intramuscularly, which mobilizes the patient's own stored glycogen to raise blood glucose."
+  },
+  {
+    "id": 309,
+    "domain": "other_body_systems",
+    "front": "Describe the presentation of a thyroid storm.",
+    "back": "A thyroid storm is a rare but severe complication of untreated or poorly controlled hyperthyroidism, presenting with high fever, severe tachycardia, agitation, and altered mental status, managed supportively with cooling, oxygen, and rapid transport."
+  },
+  {
+    "id": 310,
+    "domain": "other_body_systems",
+    "front": "How does myxedema coma present, and what causes it?",
+    "back": "Myxedema coma is a life-threatening complication of severe untreated hypothyroidism, presenting with profound lethargy, hypothermia, bradycardia, and hypoventilation."
+  },
+  {
+    "id": 311,
+    "domain": "other_body_systems",
+    "front": "What is the difference between the compact and spongy layers of bone?",
+    "back": "The compact layer is the hard outer layer of bone, while the spongy inner layer contains marrow, where blood cells are produced."
+  },
+  {
+    "id": 312,
+    "domain": "other_body_systems",
+    "front": "Distinguish between a closed fracture and an open fracture.",
+    "back": "A closed fracture leaves the overlying skin intact, while an open fracture involves a break in the skin at or near the fracture site, creating a direct pathway for infection and significant blood loss."
+  },
+  {
+    "id": 313,
+    "domain": "other_body_systems",
+    "front": "Explain the difference between a sprain and a strain.",
+    "back": "A sprain is an injury to a ligament from overstretching or tearing, commonly at the ankle or wrist, while a strain is an injury to a muscle or tendon from overstretching or overexertion."
+  },
+  {
+    "id": 314,
+    "domain": "other_body_systems",
+    "front": "What is the general splinting rule for a suspected fracture versus a suspected joint injury?",
+    "back": "For a suspected fracture, immobilize the joint above and the joint below the injury. For a suspected joint injury, immobilize the bone above and the bone below, so the entire injured segment is stabilized."
+  },
+  {
+    "id": 315,
+    "domain": "other_body_systems",
+    "front": "When might local protocol direct a paramedic to gently realign an angulated limb before splinting?",
+    "back": "If the limb is significantly angulated and distal circulation is absent, gentle realignment may be attempted to restore perfusion before splinting, since a pulseless limb left uncorrected risks permanent tissue damage."
+  },
+  {
+    "id": 316,
+    "domain": "other_body_systems",
+    "front": "What injury is a traction splint specifically used for, and why?",
+    "back": "A traction splint is used for a suspected mid-shaft femur fracture. It applies a controlled pulling force to realign the bone, reduce pain, and limit ongoing blood loss into the thigh from the femoral vessels."
+  },
+  {
+    "id": 317,
+    "domain": "other_body_systems",
+    "front": "What causes compartment syndrome, and why can a distal pulse still be present despite it?",
+    "back": "Bleeding or swelling inside a fascia-bound muscle compartment raises pressure until it exceeds capillary perfusion pressure, cutting off blood flow to muscles and nerves within that compartment, even though a larger distal artery may still produce a palpable pulse."
+  },
+  {
+    "id": 318,
+    "domain": "other_body_systems",
+    "front": "What are the classic signs of compartment syndrome?",
+    "back": "Pain disproportionate to the apparent injury that worsens with passive stretching of the affected muscles, along with paresthesia, pallor, and a tense, swollen feeling to the compartment."
+  },
+  {
+    "id": 319,
+    "domain": "other_body_systems",
+    "front": "Name the three layers of the skin from outermost to deepest.",
+    "back": "The epidermis (outermost, waterproof barrier with pigment-producing cells), the dermis (blood vessels, nerve endings, hair follicles, and sweat glands), and the subcutaneous tissue or hypodermis (fat and connective tissue that cushions and insulates)."
+  },
+  {
+    "id": 320,
+    "domain": "other_body_systems",
+    "front": "Differentiate an abrasion from an avulsion.",
+    "back": "An abrasion is superficial scraping away of the epidermis, often from sliding against a rough surface. An avulsion is a more severe injury where a flap or section of tissue is partially or completely torn away from its underlying structure."
+  },
+  {
+    "id": 321,
+    "domain": "other_body_systems",
+    "front": "How should a completely detached body part, such as an amputated fingertip, be managed?",
+    "back": "It should be wrapped, kept cool, and transported with the patient whenever possible, in case reattachment is feasible at hospital."
+  },
+  {
+    "id": 322,
+    "domain": "other_body_systems",
+    "front": "What is the first-line technique for controlling significant external bleeding, and why should the dressing not be repeatedly lifted to check it?",
+    "back": "Direct pressure applied firmly over the wound, ideally with a dressing, maintained continuously. Lifting the dressing to check disrupts early clot formation."
+  },
+  {
+    "id": 323,
+    "domain": "other_body_systems",
+    "front": "How should a tourniquet be applied for life-threatening extremity hemorrhage?",
+    "back": "Applied high and tight above the injury, tightened until bleeding stops and the distal pulse is eliminated, with the time of application clearly documented for the receiving hospital."
+  },
+  {
+    "id": 324,
+    "domain": "other_body_systems",
+    "front": "When are hemostatic dressings used instead of a tourniquet?",
+    "back": "Hemostatic dressings are used for wounds in junctional areas where a tourniquet cannot be applied, such as the groin, axilla, or neck, and are packed directly into the wound with continued direct pressure on top."
+  },
+  {
+    "id": 325,
+    "domain": "other_body_systems",
+    "front": "What is the correct field management of an abdominal evisceration?",
+    "back": "Eviscerated organs should never be pushed back into the abdomen. They are covered with a moist sterile dressing to prevent drying, then an occlusive layer to retain moisture and warmth, with the patient kept warm, knees flexed to reduce abdominal wall tension, and transported promptly."
+  },
+  {
+    "id": 326,
+    "domain": "other_body_systems",
+    "front": "How should a paramedic manage an impaled object in a penetrating wound?",
+    "back": "The object should be stabilized in place and never removed in the field, since it may be tamponading a bleeding vessel."
+  },
+  {
+    "id": 327,
+    "domain": "other_body_systems",
+    "front": "Distinguish hematemesis from melena.",
+    "back": "Hematemesis is vomiting of blood that may appear bright red or resemble coffee grounds if partially digested. Melena is black tarry stool caused by digested blood passing through the bowel, both signs of upper GI bleeding."
+  },
+  {
+    "id": 328,
+    "domain": "other_body_systems",
+    "front": "What does hematochezia suggest about the source of GI bleeding?",
+    "back": "Hematochezia, bright red blood passed rectally, more often suggests lower GI bleeding, arising from the lower small intestine, colon, or rectum."
+  },
+  {
+    "id": 329,
+    "domain": "other_body_systems",
+    "front": "Describe the classic pain pattern of appendicitis.",
+    "back": "Appendicitis classically begins as vague periumbilical pain that migrates and localizes to the right lower quadrant, often accompanied by fever, nausea, and rebound tenderness."
+  },
+  {
+    "id": 330,
+    "domain": "other_body_systems",
+    "front": "What is the typical presentation of cholecystitis, and what commonly triggers it?",
+    "back": "Right upper quadrant pain that may radiate to the right shoulder, often triggered or worsened after a fatty meal, typically caused by gallstones obstructing the gallbladder's outlet."
+  },
+  {
+    "id": 331,
+    "domain": "other_body_systems",
+    "front": "How does pancreatitis typically present?",
+    "back": "Severe epigastric pain that frequently radiates straight through to the back, along with nausea and vomiting, most commonly related to gallstones or alcohol use."
+  },
+  {
+    "id": 332,
+    "domain": "other_body_systems",
+    "front": "Why must a patient with blunt abdominal trauma and a concerning mechanism be treated as having a serious internal injury even if the abdomen looks unremarkable?",
+    "back": "Blunt abdominal trauma can cause internal organ injury and significant internal bleeding without any obvious external sign, so tenderness, distension, or signs of shock must be taken seriously regardless of external appearance."
+  },
+  {
+    "id": 333,
+    "domain": "other_body_systems",
+    "front": "What is the basic function of a nephron within the kidney?",
+    "back": "The nephron is the kidney's tiny functional filtering unit, reabsorbing water and needed substances from the blood while excreting waste as urine."
+  },
+  {
+    "id": 334,
+    "domain": "other_body_systems",
+    "front": "Contrast the onset and typical causes of acute kidney injury versus chronic kidney disease.",
+    "back": "Acute kidney injury develops rapidly over hours to days, often from severe dehydration, hypotension, toxins, or urine flow obstruction, and is frequently reversible. Chronic kidney disease develops gradually over months to years, most often from long-standing diabetes or hypertension, and is largely irreversible."
+  },
+  {
+    "id": 335,
+    "domain": "other_body_systems",
+    "front": "What is an arteriovenous fistula, and why is it created for dialysis patients?",
+    "back": "An arteriovenous fistula is a surgically created connection between an artery and vein, usually in the arm, that provides a durable, high-flow access point for repeated needle insertion during hemodialysis."
+  },
+  {
+    "id": 336,
+    "domain": "other_body_systems",
+    "front": "What two precautions must a paramedic follow when the arm has a dialysis fistula or graft?",
+    "back": "Blood pressure should never be measured and intravenous access should never be attempted on the arm with a fistula or graft, since any pressure or needle puncture risks damaging this difficult-to-replace access point."
+  },
+  {
+    "id": 337,
+    "domain": "other_body_systems",
+    "front": "What ECG changes suggest dangerous hyperkalemia in a dialysis patient?",
+    "back": "Peaked T waves or a widened QRS complex on the cardiac monitor are characteristic changes that should prompt paramedics to prioritize rapid transport and continuous cardiac monitoring."
+  },
+  {
+    "id": 338,
+    "domain": "other_body_systems",
+    "front": "How does peritoneal dialysis differ from hemodialysis?",
+    "back": "Peritoneal dialysis uses the patient's own peritoneal membrane inside the abdomen as a filter, with dialysis fluid instilled and drained through a permanent abdominal catheter, whereas hemodialysis filters blood through an external machine using vascular access such as a fistula or graft."
+  },
+  {
+    "id": 339,
+    "domain": "other_body_systems",
+    "front": "Why is testicular torsion considered a true urologic emergency requiring prompt transport?",
+    "back": "The testicle rotates on the spermatic cord, cutting off its own blood supply, and it can become permanently nonviable within hours if blood flow is not restored, so unnecessary delay or invasive field examination should be avoided."
+  },
+  {
+    "id": 340,
+    "domain": "other_body_systems",
+    "front": "What is priapism and what conditions can cause it?",
+    "back": "Priapism is a prolonged, often painful erection unrelated to sexual stimulation, which can result from certain medications, sickle cell disease, or spinal cord injury, and is time sensitive due to risk of lasting tissue damage."
+  },
+  {
+    "id": 341,
+    "domain": "other_body_systems",
+    "front": "What is an ectopic pregnancy and why is it dangerous?",
+    "back": "An ectopic pregnancy occurs when a fertilized egg implants outside the uterus, most commonly within a fallopian tube, which cannot safely accommodate a growing pregnancy. Rupture can cause rapid, life-threatening internal hemorrhage and shock."
+  },
+  {
+    "id": 342,
+    "domain": "other_body_systems",
+    "front": "What is ovarian torsion and how does it compare to testicular torsion?",
+    "back": "Ovarian torsion occurs when an ovarian cyst causes the ovary to twist on its blood supply, producing sudden sharp pelvic pain. It mirrors testicular torsion in both its urgency and its mechanism."
+  },
+  {
+    "id": 343,
+    "domain": "other_body_systems",
+    "front": "How does pelvic inflammatory disease typically present, and what commonly causes it?",
+    "back": "Pelvic inflammatory disease presents with lower abdominal pain, fever, and abnormal vaginal discharge, often arising from an untreated sexually transmitted infection, and can progress to abscess formation and infertility if untreated."
+  },
+  {
+    "id": 344,
+    "domain": "other_body_systems",
+    "front": "What should paramedics gather when assessing any patient of reproductive age with abdominal pain?",
+    "back": "A focused history including onset, character, and location of pain, associated bleeding or discharge, and pregnancy status where relevant, while maintaining patient privacy and dignity throughout."
+  },
+  {
+    "id": 345,
+    "domain": "other_body_systems",
+    "front": "What unifying field management principle applies across the reproductive emergencies discussed in this chapter, such as torsion and ectopic pregnancy?",
+    "back": "Management is largely supportive: monitoring for signs of shock, providing oxygen and fluid support per protocol, positioning for comfort, and transporting promptly, since definitive diagnosis and treatment can only occur in hospital."
+  },
+  {
+    "id": 346,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What should a paramedic do before approaching a suspected poisoning scene with an unlabelled container or a strong chemical odour?",
+    "back": "Stage at a safe distance and call for additional resources rather than walking directly in, since the substance could also harm the responding crew."
+  },
+  {
+    "id": 347,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Name the four main routes by which a poison can enter the body.",
+    "back": "Ingestion, inhalation, injection, and absorption through intact skin or mucous membranes."
+  },
+  {
+    "id": 348,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why does inhalation of a toxic gas or vapour typically cause faster onset of symptoms than ingestion of a pill?",
+    "back": "The lungs offer a large alveolar absorption surface, so an inhaled substance is absorbed rapidly, while an ingested substance must first pass through the gastrointestinal tract, delaying onset."
+  },
+  {
+    "id": 349,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Which route of exposure carries a real risk of secondary contamination to responders who touch a patient's skin without protection?",
+    "back": "Absorption, as seen with organophosphate pesticides that remain on the skin and can transfer to bare hands or clothing."
+  },
+  {
+    "id": 350,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What key history points should be gathered on any suspected poisoning or overdose call?",
+    "back": "What was taken, how much, when it was taken, whether alcohol or other substances were involved, and whether the exposure was intentional."
+  },
+  {
+    "id": 351,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Define a toxidrome.",
+    "back": "A recognizable cluster of signs and symptoms produced by a class of substances, allowing a paramedic to anticipate complications before the exact substance is identified."
+  },
+  {
+    "id": 352,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Describe the classic triad of the opioid toxidrome.",
+    "back": "Pinpoint pupils, decreased level of consciousness, and respiratory depression that can progress to apnea, with skin often cool and clammy."
+  },
+  {
+    "id": 353,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Which toxidrome will an AEMCA encounter most often, and what substances typically cause it?",
+    "back": "The opioid toxidrome, seen with heroin, fentanyl, oxycodone, and morphine."
+  },
+  {
+    "id": 354,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What clinical picture defines the sympathomimetic toxidrome, and which drugs cause it?",
+    "back": "Tachycardia, hypertension, dilated pupils, agitation, diaphoresis, and hyperthermia, associated with cocaine and methamphetamine, with severe cases progressing to seizures or dysrhythmias."
+  },
+  {
+    "id": 355,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Recite the memory aid for the anticholinergic toxidrome and its meaning.",
+    "back": "Hot as a hare, blind as a bat, dry as a bone, red as a beet, and mad as a hatter: elevated temperature, dilated poorly reactive pupils, dry flushed skin, and delirium."
+  },
+  {
+    "id": 356,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Which substances typically produce an anticholinergic toxidrome?",
+    "back": "Certain antihistamines and tricyclic antidepressants."
+  },
+  {
+    "id": 357,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What does the SLUDGE mnemonic stand for in the cholinergic toxidrome?",
+    "back": "Salivation, lacrimation, urination, defecation, gastrointestinal upset, and emesis."
+  },
+  {
+    "id": 358,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What causes the cholinergic toxidrome, and why does it make suction a top priority?",
+    "back": "It is caused by excess acetylcholine activity, typically from organophosphate pesticides or nerve agents, and it can rapidly compromise the airway through excess secretions and bronchospasm."
+  },
+  {
+    "id": 359,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Besides bronchorrhea and bronchospasm, what heart rate finding is typical of the cholinergic toxidrome?",
+    "back": "Bradycardia."
+  },
+  {
+    "id": 360,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why is acetaminophen overdose considered dangerous despite the patient often looking well early on?",
+    "back": "The threat is delayed hepatotoxicity progressing to liver failure over one to several days, so a reported acetaminophen overdose should always be treated as a genuine emergency regardless of appearance."
+  },
+  {
+    "id": 361,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What clinical pattern should raise suspicion for salicylate (ASA) toxicity?",
+    "back": "Tinnitus, nausea, vomiting, and rapid, deep hyperventilation from direct stimulation of the respiratory center, an early primary respiratory alkalosis, with a metabolic acidosis developing later as toxicity progresses; confusion, seizures, or cardiovascular collapse are possible as toxicity worsens."
+  },
+  {
+    "id": 362,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can alcohol intoxication be dangerous to assume as the only explanation for a patient's presentation?",
+    "back": "A patient who appears simply intoxicated may actually be hypoglycemic, have a head injury from a fall, or have co-ingested another substance, so a thorough assessment should not attribute every finding to intoxication alone."
+  },
+  {
+    "id": 363,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "How does alcohol contribute to hypothermia?",
+    "back": "It causes peripheral vasodilation, which increases heat loss from the body, and it also impairs the gag reflex."
+  },
+  {
+    "id": 364,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the prehospital management priority for opioid overdose, and how does naloxone fit into it?",
+    "back": "Supporting oxygenation and ventilation, including bag valve mask ventilation if breathing is inadequate, combined with naloxone according to local medical directives; naloxone is an opioid antagonist that displaces opioids from their receptors and reverses respiratory depression within a few minutes."
+  },
+  {
+    "id": 365,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can a patient re-sedate after receiving naloxone, and what other reaction can naloxone precipitate?",
+    "back": "Naloxone's duration of action may be shorter than the opioid involved, so the patient can re-sedate once it wears off; naloxone can also precipitate acute withdrawal and combativeness."
+  },
+  {
+    "id": 366,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why is carbon monoxide poisoning easy to miss on scene?",
+    "back": "The gas is colourless and odourless, and symptoms such as headache, nausea, dizziness, and confusion are nonspecific, though multiple simultaneously affected people in the same household or vehicle is an important clue."
+  },
+  {
+    "id": 367,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can standard pulse oximetry be misleading in carbon monoxide poisoning?",
+    "back": "It cannot reliably distinguish carbon monoxide-bound hemoglobin from oxygen-bound hemoglobin, so it can give a falsely reassuring reading."
+  },
+  {
+    "id": 368,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the mainstay of prehospital management for carbon monoxide poisoning?",
+    "back": "High-concentration oxygen therapy, since it accelerates removal of carbon monoxide from hemoglobin."
+  },
+  {
+    "id": 369,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Is inducing vomiting part of prehospital management for most poisoning calls?",
+    "back": "No, inducing vomiting is not part of prehospital management for most ingestions."
+  },
+  {
+    "id": 370,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "How does heat exhaustion typically present, including mental status and skin findings?",
+    "back": "Heavy sweating, weakness, nausea, headache, and dizziness, with skin often cool, pale, and clammy, core temperature normal or only mildly elevated, and mental status largely normal."
+  },
+  {
+    "id": 371,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the prehospital management for heat exhaustion?",
+    "back": "Remove the patient from the hot environment, cool with fanning and cool water, loosen restrictive clothing, and provide rest and oral fluids if the patient is alert and tolerating them."
+  },
+  {
+    "id": 372,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the hallmark finding that distinguishes heat stroke from heat exhaustion?",
+    "back": "Altered mental status, ranging from confusion to seizures to unresponsiveness, combined with significantly elevated core temperature."
+  },
+  {
+    "id": 373,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can skin condition alone not rule out heat stroke?",
+    "back": "Skin may be hot and either dry or still moist, since sweating does not reliably stop in every case of heat stroke."
+  },
+  {
+    "id": 374,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the priority management for heat stroke?",
+    "back": "Aggressive cooling: remove clothing, apply cool water or ice packs to the neck, axillae, and groin, and transport rapidly, since prolonged hyperthermia damages the brain and kidneys."
+  },
+  {
+    "id": 375,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "How does a patient with mild hypothermia typically present?",
+    "back": "Shivering, alert, and able to compensate, though coordination and judgment may begin to decline."
+  },
+  {
+    "id": 376,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What changes occur as hypothermia progresses from mild to moderate?",
+    "back": "Shivering diminishes or stops, consciousness declines further, and the patient becomes lethargic and uncoordinated with slowed speech."
+  },
+  {
+    "id": 377,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What can severe hypothermia mimic, and why?",
+    "back": "Clinical death, because shivering has ceased, the patient may be unresponsive, and pulse and respirations can become extremely slow and difficult to detect."
+  },
+  {
+    "id": 378,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why must a severely hypothermic patient be handled gently and moved smoothly?",
+    "back": "The heart becomes highly irritable in severe hypothermia, so rough handling, jostling, or aggressive movement can precipitate a lethal dysrhythmia such as ventricular fibrillation."
+  },
+  {
+    "id": 379,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the correct field approach to protecting a hypothermic patient from further heat loss?",
+    "back": "Remove wet clothing and replace it with dry insulation, keep the patient horizontal, and avoid aggressive rewarming or vigorous rubbing in the field."
+  },
+  {
+    "id": 380,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What are the early signs of frostbite?",
+    "back": "Numbness, pallor, and a firm or waxy feel to the skin, most commonly in the fingers, toes, ears, and nose."
+  },
+  {
+    "id": 381,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why is field rewarming of frostbite generally avoided if there is a risk of refreezing?",
+    "back": "A freeze-thaw-refreeze cycle causes more tissue damage than a single sustained freeze."
+  },
+  {
+    "id": 382,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the central problem driving every downstream complication in drowning, including cardiac arrest?",
+    "back": "Hypoxia, which develops quickly once water or laryngospasm interrupts normal gas exchange."
+  },
+  {
+    "id": 383,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the priority once a drowning patient is safely removed from the water by trained rescuers?",
+    "back": "Opening the airway and providing rescue breaths or bag valve mask ventilation as soon as possible, followed by chest compressions if the patient is in cardiac arrest."
+  },
+  {
+    "id": 384,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Should airway and ventilation be delayed for spinal precautions in a drowning patient with a suspected shallow-water dive injury?",
+    "back": "No, cervical spine injury should be considered, but airway and ventilation should never be delayed for spinal precautions."
+  },
+  {
+    "id": 385,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why should all drowning patients be transported, even those who recover quickly?",
+    "back": "Pulmonary complications can develop hours later even after apparent recovery."
+  },
+  {
+    "id": 386,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is barotrauma, and what serious complication can pulmonary barotrauma cause?",
+    "back": "Barotrauma is tissue injury from pressure differences between an air-filled body space and the surrounding environment; pulmonary barotrauma from ascending too quickly while holding the breath can force air into the bloodstream, producing an arterial gas embolism with rapid, severe neurological symptoms."
+  },
+  {
+    "id": 387,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What causes decompression sickness, and what symptoms can it produce?",
+    "back": "Nitrogen bubbles forming in blood and tissue when a diver ascends too quickly after breathing compressed air at depth, producing joint pain, fatigue, skin changes, and in severe cases neurological deficits, sometimes delayed for hours after surfacing."
+  },
+  {
+    "id": 388,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the prehospital management for suspected decompression sickness or arterial gas embolism?",
+    "back": "High-concentration oxygen and prompt transport to a facility capable of definitive treatment."
+  },
+  {
+    "id": 389,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is acute mountain sickness, and how is it managed?",
+    "back": "The mildest and most common form of altitude illness, presenting with headache, fatigue, nausea, dizziness, and difficulty sleeping within a day of arriving at altitude, managed by halting further ascent, allowing acclimatization, and descending if symptoms worsen."
+  },
+  {
+    "id": 390,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What distinguishes high-altitude pulmonary edema from acute mountain sickness?",
+    "back": "It involves fluid in the lungs, with worsening shortness of breath, cough, and reduced exercise tolerance, sometimes pink frothy sputum, representing a more serious progression than acute mountain sickness."
+  },
+  {
+    "id": 391,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the definitive treatment for high-altitude pulmonary edema and high-altitude cerebral edema?",
+    "back": "Descent as soon as it can be safely arranged, alongside supplemental oxygen."
+  },
+  {
+    "id": 392,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the prehospital priority for a thermal burn, and what should be avoided during cooling?",
+    "back": "Stopping the burning process and cooling with room-temperature water, avoiding ice or prolonged cooling that can worsen injury or contribute to hypothermia."
+  },
+  {
+    "id": 393,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the correct approach to a chemical burn, and why should dry chemical powders be brushed away first?",
+    "back": "Remove contaminated clothing and irrigate with copious water for an extended period; dry chemical powders should generally be brushed away before irrigation, since water can trigger a reaction with certain dry chemicals."
+  },
+  {
+    "id": 394,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can electrical burns be more dangerous than they appear on the surface?",
+    "back": "They can look deceptively minor on the skin while causing extensive deep tissue damage along the current's path, and they carry a real risk of cardiac dysrhythmia, so cardiac monitoring is important."
+  },
+  {
+    "id": 395,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Describe the appearance of a superficial burn.",
+    "back": "Involves only the outer skin layer, appearing red, painful, and dry without blistering, such as a sunburn."
+  },
+  {
+    "id": 396,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Describe the appearance of a partial-thickness burn and why it remains very painful.",
+    "back": "It extends into the deeper skin layer, appearing red, moist, blistered, and quite painful, since nerve endings remain intact."
+  },
+  {
+    "id": 397,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Describe the appearance of a full-thickness burn and explain why the deepest areas may be painless.",
+    "back": "It extends through the entire skin and can involve fat, muscle, or bone, appearing dry, leathery, or waxy, and may be surprisingly painless in the deepest areas because nerve endings are destroyed."
+  },
+  {
+    "id": 398,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Under the rule of nines, what body surface area percentage is assigned to each entire arm and to the head and neck in an adult?",
+    "back": "Each entire arm is approximately nine percent, and the head and neck are approximately nine percent."
+  },
+  {
+    "id": 399,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Under the rule of nines, what body surface area percentage is assigned to the anterior trunk, the posterior trunk, and each leg in an adult?",
+    "back": "The anterior trunk is approximately eighteen percent, the posterior trunk is approximately eighteen percent, and each entire leg is approximately eighteen percent."
+  },
+  {
+    "id": 400,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why does a child's rule of nines chart differ from an adult's?",
+    "back": "A child's head is relatively larger than an adult's, so an adjusted pediatric chart is used to estimate body surface area burned."
+  },
+  {
+    "id": 401,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What warning signs suggest an airway burn in a patient burned by fire or smoke?",
+    "back": "Singed facial hair, soot around the mouth or nose, hoarseness, and difficulty swallowing, all of which warrant close monitoring and prompt transport since airway swelling can progress rapidly and unpredictably."
+  },
+  {
+    "id": 402,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "What is the prehospital focus for a significant burn, given that fluid resuscitation is primarily an in-hospital consideration?",
+    "back": "Covering the burn with a clean, dry dressing, preventing further contamination and heat loss, providing analgesia within scope, and transporting promptly."
+  },
+  {
+    "id": 403,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why can internal injury from a gunshot wound be far more extensive than the visible external wound suggests?",
+    "back": "A temporary cavity can form as the projectile passes through tissue, causing injury beyond the visible track, influenced by the projectile's velocity, path, and whether it tumbles, fragments, or strikes bone or a major vessel."
+  },
+  {
+    "id": 404,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "Why should wound appearance never be used to determine firing direction in a suspected gunshot wound?",
+    "back": "An entrance wound is often smaller and more regular while an exit wound can be larger and more irregular, but this pattern is not absolute, so it should never be relied on to determine firing direction."
+  },
+  {
+    "id": 405,
+    "domain": "trauma_toxicology_and_environmental_emergencies",
+    "front": "How should an impaled object generally be managed in the field, and why?",
+    "back": "It should generally be stabilized in place rather than removed, since the object may be tamponading a bleeding vessel."
+  },
+  {
+    "id": 406,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why should a paramedic never assume a behavioural presentation is purely psychiatric?",
+    "back": "A behavioural presentation is a symptom, not a diagnosis, and organic causes such as hypoglycemia, hypoxia, head injury, stroke, sepsis, drug intoxication, alcohol withdrawal, or thyroid storm can all mimic agitation or confusion. A blood glucose check, oxygen saturation reading, and basic neurological assessment belong on every behavioural call before a psychiatric explanation is settled on."
+  },
+  {
+    "id": 407,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What should a paramedic do before approaching a scene involving altered behaviour with a possible weapon?",
+    "back": "Stage at a safe distance until police confirm the scene is secure. Once on scene, identify at least two exit routes, secure obvious hazards within the patient's reach, and avoid turning your back on an agitated individual."
+  },
+  {
+    "id": 408,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "List three effective de-escalation techniques for an agitated patient.",
+    "back": "Approach slowly while introducing yourself and stating your purpose, use the patient's name and short simple sentences, and give the patient space rather than crowding them. A calm, even voice at a slower pace than the patient's own can lower the emotional temperature of the encounter."
+  },
+  {
+    "id": 409,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "How should a paramedic respond to a patient who is actively experiencing a delusion or hallucination?",
+    "back": "Never argue with the delusion or try to talk the patient out of the hallucination, since this often increases agitation. Instead, acknowledge the patient's distress without confirming or denying the delusion, and redirect toward a concrete, answerable question."
+  },
+  {
+    "id": 410,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Does apprehension under the Mental Health Act change how a paramedic clinically manages a patient?",
+    "back": "No. The clinical role is unchanged: continue monitoring vital signs, maintain a calm and respectful approach, and document objective behavioural observations rather than subjective labels. An apprehended patient still deserves full clinical assessment."
+  },
+  {
+    "id": 411,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Name several warning signs of suicide risk a paramedic should recognize.",
+    "back": "Warning signs include direct statements of intent, a specific plan, access to means, recent major loss, previous attempts, giving away possessions, and sudden calm after severe depression, which can indicate a decision to act."
+  },
+  {
+    "id": 412,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is the paramedic's actual role when a patient expresses suicidal intent?",
+    "back": "Not to conduct a formal risk assessment, but to recognize red flags, maintain safety during transport, and communicate findings clearly to receiving hospital staff."
+  },
+  {
+    "id": 413,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What triggers the fight-or-flight response and what chemicals mediate it?",
+    "back": "The sympathetic nervous system triggers the response through release of catecholamines such as epinephrine and norepinephrine, producing increased heart rate and respiratory rate, pupil dilation, and redirection of blood flow away from the digestive system toward skeletal muscle."
+  },
+  {
+    "id": 414,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why can a patient's own stress response complicate paramedic assessment?",
+    "back": "A patient's anxiety can mimic or mask symptoms of a genuine medical problem, so recognizing a stress response for what it is, rather than treating it as the primary complaint, is an important assessment skill."
+  },
+  {
+    "id": 415,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What does each letter of the OPQRST pain assessment mnemonic stand for?",
+    "back": "Onset, Provocation and Palliation, Quality, Region and Radiation, Severity, and Time. It is the standard framework for systematically assessing pain."
+  },
+  {
+    "id": 416,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "How should pain be assessed in a patient who cannot communicate verbally?",
+    "back": "Use a behavioural or observational pain scale based on facial expression, body movement, and vocalization instead of a numeric self-report."
+  },
+  {
+    "id": 417,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Give three non-pharmacological pain management measures within PCP scope.",
+    "back": "Splinting an injured limb, positioning the patient comfortably, and applying cold packs where appropriate, along with providing reassurance, all reduce pain perception even without medication."
+  },
+  {
+    "id": 418,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why is reassessment important after administering an analgesic under a local medical directive?",
+    "back": "Established protocols require a contraindication checklist and a reassessment requirement after administration, since the exam expects understanding of the general approach to evaluating whether pain relief was effective rather than a specific drug name or dose."
+  },
+  {
+    "id": 419,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What signs suggest a paramedic colleague may be experiencing cumulative stress injury?",
+    "back": "Irritability, sleep disturbance, and emotional withdrawal are early signs. Peer support and critical incident stress management resources exist to address this real occupational risk."
+  },
+  {
+    "id": 420,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What hormones help regulate fluid and electrolyte balance in the body?",
+    "back": "Antidiuretic hormone and aldosterone, working alongside the kidneys and cardiovascular system, help maintain the tightly regulated balance of water and electrolytes between intracellular and extracellular compartments."
+  },
+  {
+    "id": 421,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "How does severe dehydration present differently from mild dehydration?",
+    "back": "Mild dehydration shows only thirst and slightly dry mucous membranes, while severe dehydration produces tachycardia, hypotension, delayed capillary refill, altered level of consciousness, and poor skin turgor, representing a true emergency requiring rapid transport."
+  },
+  {
+    "id": 422,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Which patient populations are at particularly high risk from dehydration, and why?",
+    "back": "Elderly patients and infants are at highest risk because of reduced physiological reserve, meaning they compensate less effectively for fluid loss."
+  },
+  {
+    "id": 423,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What ECG changes suggest hyperkalemia in the field?",
+    "back": "Peaked T waves, a widened QRS complex, and in severe cases a sine-wave pattern progressing to lethal dysrhythmia. A dialysis patient who has missed treatment presenting with weakness or cardiac irregularity should raise strong suspicion even without a lab value."
+  },
+  {
+    "id": 424,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What symptoms suggest hyponatremia, and what can cause it?",
+    "back": "Confusion, headache, nausea, muscle cramps, and in severe or rapidly developing cases seizures and altered level of consciousness. It can result from excessive water intake, certain medications, or conditions causing inappropriate water retention."
+  },
+  {
+    "id": 425,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is the paramedic's role regarding suspected electrolyte disturbances in the field?",
+    "back": "Not to diagnose the specific abnormality, since lab work is unavailable in the field, but to recognize that unexplained cardiac irregularity or altered mental status in a patient with relevant history may reflect an electrolyte problem that changes urgency and destination decisions."
+  },
+  {
+    "id": 426,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why is shock not defined by a single blood pressure number?",
+    "back": "Shock is a physiological state of inadequate tissue perfusion that can exist even when blood pressure remains within a technically normal range, which is why understanding the stages of shock matters more than fixating on one vital sign."
+  },
+  {
+    "id": 427,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What subtle signs indicate a patient is in compensated shock despite a normal blood pressure?",
+    "back": "Anxiety or restlessness, pale and cool skin, delayed capillary refill, and a rising heart rate. In this stage the body compensates through vasoconstriction, tachycardia, and catecholamine release, and early recognition here makes the greatest difference."
+  },
+  {
+    "id": 428,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What happens as a patient transitions from compensated to decompensated shock?",
+    "back": "Blood pressure drops, level of consciousness deteriorates, skin becomes mottled or cyanotic, capillary refill is markedly delayed, and the patient may become unresponsive. This is a true emergency because the window for reversing the process narrows quickly once compensation fails."
+  },
+  {
+    "id": 429,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What are the management priorities for hypovolemic shock from hemorrhage?",
+    "back": "Controlling external bleeding, positioning the patient supine, keeping the patient warm to prevent hypothermia, acidosis, and coagulopathy, providing supplemental oxygen, and rapid transport."
+  },
+  {
+    "id": 430,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What distinguishes cardiogenic shock from hypovolemic shock?",
+    "back": "In cardiogenic shock the problem is not a lack of volume but a failure of the heart to pump the volume present, often following a large myocardial infarction, severe dysrhythmia, or acute heart failure. Patients show both poor perfusion and fluid backup, including pulmonary crackles, jugular venous distension, and peripheral edema."
+  },
+  {
+    "id": 431,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why can aggressive fluid administration worsen cardiogenic shock?",
+    "back": "Because the heart is already failing as a pump, adding more volume can overload it further, which is why distinguishing cardiogenic shock from hypovolemic shock matters clinically before considering fluid administration."
+  },
+  {
+    "id": 432,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is the common feature shared by all forms of distributive shock?",
+    "back": "Abnormal vasodilation causing a relative hypovolemia, where total blood volume may be normal but the vascular space has expanded beyond what it can fill."
+  },
+  {
+    "id": 433,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why might an elderly patient in septic shock not present with fever?",
+    "back": "Septic shock produces widespread vasodilation and capillary leak, and typically fever, but some septic patients, particularly the elderly, may present with a normal or low temperature instead."
+  },
+  {
+    "id": 434,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is the definitive, time-critical treatment for anaphylactic shock, and how is it given?",
+    "back": "Epinephrine administered by intramuscular injection into the anterolateral thigh. Delay in administration is associated with worse outcomes, and antihistamines and other adjuncts should never delay it when anaphylaxis is suspected."
+  },
+  {
+    "id": 435,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is a biphasic reaction and why does it matter after treating anaphylaxis?",
+    "back": "It is a second wave of anaphylactic symptoms that can occur hours after the reaction initially appears resolved, so patients who receive epinephrine require ongoing monitoring."
+  },
+  {
+    "id": 436,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why does neurogenic shock often present with a normal or slow heart rate instead of tachycardia?",
+    "back": "A spinal cord injury disrupts sympathetic output below the level of injury, interrupting the sympathetic drive that would normally raise heart rate, producing hypotension without compensatory tachycardia, a frequently tested distinguishing feature."
+  },
+  {
+    "id": 437,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why are neurogenic shock patients at particular risk of hypothermia?",
+    "back": "They lose the ability to shiver and vasoconstrict below the level of injury, so management includes spinal motion restriction as indicated, maintaining the airway, and actively preventing hypothermia."
+  },
+  {
+    "id": 438,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What defines obstructive shock, and name its three common causes.",
+    "back": "A physical obstruction that prevents adequate blood flow into or out of the heart despite normal blood volume and cardiac muscle function. Common causes are tension pneumothorax, cardiac tamponade, and massive pulmonary embolism."
+  },
+  {
+    "id": 439,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What is the classic triad of cardiac tamponade, and is it always fully present?",
+    "back": "Hypotension, jugular venous distension, and muffled heart sounds, though all three are not always present together in a given patient."
+  },
+  {
+    "id": 440,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why can fluid administration alone not fix obstructive shock?",
+    "back": "The definitive treatment is relieving the physical obstruction itself, something fluid cannot accomplish; tension pneumothorax may be addressed within a paramedic's scope while cardiac tamponade and massive pulmonary embolism require urgent hospital intervention."
+  },
+  {
+    "id": 441,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Why is fever in a chemotherapy patient always treated as a true emergency?",
+    "back": "Chemotherapy often causes neutropenia, a dangerously low neutrophil count, and a neutropenic patient with fever, even low-grade, can progress from a minor infection to sepsis very quickly, so prompt transport is warranted."
+  },
+  {
+    "id": 442,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "How should a paramedic handle a patient's implanted vascular access device, such as a chemotherapy port?",
+    "back": "Avoid unnecessary manipulation of the device and clearly communicate its presence to receiving hospital staff, since it may be an appropriate treatment route and requires infection precautions specific to indwelling devices."
+  },
+  {
+    "id": 443,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What should a paramedic do when no valid Do Not Resuscitate documentation is present for a patient with advanced cancer?",
+    "back": "Standard resuscitation guidelines apply even in a patient with known advanced illness, and the paramedic should never assume a patient's wishes based on diagnosis alone."
+  },
+  {
+    "id": 444,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "Compare droplet and airborne transmission of communicable disease.",
+    "back": "Droplet transmission occurs when respiratory droplets travel a short distance, typically less than two metres, and contact mucous membranes. Airborne transmission involves much smaller particles that remain suspended in air longer and travel farther, requiring a higher level of respiratory protection such as a fit-tested N95 respirator."
+  },
+  {
+    "id": 445,
+    "domain": "shock_fluids_and_medical_emergencies",
+    "front": "What steps should a paramedic take immediately after a needlestick injury or significant unprotected exposure?",
+    "back": "Follow the service's post-exposure protocol: immediate first aid such as washing the affected area, prompt reporting to a supervisor, medical evaluation, and documentation, since timely reporting affects both health monitoring and any indicated post-exposure prophylaxis."
+  },
+  {
+    "id": 446,
+    "domain": "special_populations",
+    "front": "What marks the beginning and end of the first stage of labour?",
+    "back": "The first stage begins with the onset of regular contractions and ends with full cervical dilation to 10 centimetres. It is typically the longest stage and includes a latent phase with irregular contractions and an active phase with stronger, closer, more painful contractions."
+  },
+  {
+    "id": 447,
+    "domain": "special_populations",
+    "front": "What happens during the second and third stages of labour?",
+    "back": "The second stage begins at full dilation and ends with delivery of the baby (the pushing stage). The third stage begins right after the baby is delivered and ends with delivery of the placenta, usually within 30 minutes."
+  },
+  {
+    "id": 448,
+    "domain": "special_populations",
+    "front": "In an obstetrical history, what do gravida and para mean?",
+    "back": "Gravida is the total number of pregnancies a patient has had, and para is the total number of deliveries. Both help you gauge how quickly labour may progress."
+  },
+  {
+    "id": 449,
+    "domain": "special_populations",
+    "front": "Which findings tell you delivery is imminent and you should prepare to deliver on scene?",
+    "back": "Crowning, an uncontrollable urge to push, or a visible presenting part all mean delivery is imminent. In these cases you should prepare to deliver on scene rather than attempt transport."
+  },
+  {
+    "id": 450,
+    "domain": "special_populations",
+    "front": "How should you position a labouring patient once delivery is imminent?",
+    "back": "Position the patient supine with the knees bent and support under the hips if possible, maintain privacy, and prepare a clean field with the obstetrical kit."
+  },
+  {
+    "id": 451,
+    "domain": "special_populations",
+    "front": "What is a nuchal cord and how is it managed during delivery of the head?",
+    "back": "A nuchal cord is an umbilical cord wrapped around the newborn's neck. As the head delivers, check for it and, if present, attempt to gently slip it over the head."
+  },
+  {
+    "id": 452,
+    "domain": "special_populations",
+    "front": "When should you suction a newborn's mouth and nose during delivery?",
+    "back": "Suction the mouth before the nose only if the newborn shows obvious airway obstruction from secretions. Routine suctioning of a vigorous newborn is no longer recommended."
+  },
+  {
+    "id": 453,
+    "domain": "special_populations",
+    "front": "How is the umbilical cord clamped and cut after delivery?",
+    "back": "Clamp the cord in two places roughly 10 and 15 centimetres from the newborn, keeping the newborn at the level of the placenta until clamped, then cut between the clamps with sterile scissors."
+  },
+  {
+    "id": 454,
+    "domain": "special_populations",
+    "front": "Why should you never pull on the umbilical cord to speed delivery of the placenta?",
+    "back": "Pulling on the cord to hasten the third stage can cause uterine inversion or hemorrhage. The placenta should be allowed to deliver on its own."
+  },
+  {
+    "id": 455,
+    "domain": "special_populations",
+    "front": "Why must the delivered placenta be transported to hospital with the patient?",
+    "back": "The receiving team will inspect the placenta for completeness, because retained placental fragments are a leading cause of postpartum hemorrhage."
+  },
+  {
+    "id": 456,
+    "domain": "special_populations",
+    "front": "What is uterine massage and why is it performed after delivery?",
+    "back": "Uterine massage is rubbing the fundus firmly in a circular motion through the lower abdomen. It helps the uterus contract and reduces postpartum bleeding."
+  },
+  {
+    "id": 457,
+    "domain": "special_populations",
+    "front": "How is pre-eclampsia defined, and what symptoms often accompany it?",
+    "back": "Pre-eclampsia is new-onset hypertension after 20 weeks gestation, often with protein in the urine, headache, visual disturbances, upper abdominal pain, and swelling of the hands and face."
+  },
+  {
+    "id": 458,
+    "domain": "special_populations",
+    "front": "What is eclampsia, and how is it managed prehospitally?",
+    "back": "Eclampsia is the progression of pre-eclampsia to generalized seizures. Management includes airway protection, positioning the patient on her left side to relieve pressure on the inferior vena cava, minimizing stimulation, and rapid transport."
+  },
+  {
+    "id": 459,
+    "domain": "special_populations",
+    "front": "How does placenta previa typically present?",
+    "back": "Placenta previa occurs when the placenta implants low in the uterus and covers or approaches the cervix, producing painless bright red vaginal bleeding in the third trimester."
+  },
+  {
+    "id": 460,
+    "domain": "special_populations",
+    "front": "How does abruptio placentae typically present, and why can it be deceptively dangerous?",
+    "back": "Abruptio placentae is premature separation of the placenta from the uterine wall, causing painful bleeding that may be dark, a rigid or tender abdomen, and fetal distress. Because hemorrhage can be concealed behind the placenta, visible blood loss may understate true severity."
+  },
+  {
+    "id": 461,
+    "domain": "special_populations",
+    "front": "Why should you never perform a vaginal examination on a patient with third-trimester bleeding?",
+    "back": "A vaginal examination in the prehospital setting can worsen bleeding from either placenta previa or abruptio placentae, so it should never be performed."
+  },
+  {
+    "id": 462,
+    "domain": "special_populations",
+    "front": "What is a prolapsed umbilical cord and why is it dangerous?",
+    "back": "A prolapsed cord occurs when the umbilical cord slips through the cervix ahead of the presenting part, risking cord compression and fetal hypoxia with every contraction."
+  },
+  {
+    "id": 463,
+    "domain": "special_populations",
+    "front": "How do you manage a prolapsed cord in the field?",
+    "back": "Position the mother knee-chest or in steep Trendelenburg, insert a gloved hand into the vagina to gently lift the presenting part off the cord without pushing the cord back in, keep the cord warm and moist, and transport immediately with the hand maintained in position."
+  },
+  {
+    "id": 464,
+    "domain": "special_populations",
+    "front": "What is breech presentation and how should an in-progress breech delivery be handled?",
+    "back": "Breech presentation means the buttocks or feet present first. If delivery cannot be stopped, allow the body to deliver on its own without pulling, since the head, being largest, takes longer to deliver last."
+  },
+  {
+    "id": 465,
+    "domain": "special_populations",
+    "front": "What emergency airway manoeuvre is described for a breech delivery where the head fails to deliver and the newborn shows airway compromise?",
+    "back": "Two fingers can be inserted into the vagina to form a V on either side of the newborn's nose and mouth to create an airway. This is an advanced manoeuvre reserved for genuine emergencies, ideally with online medical direction guidance."
+  },
+  {
+    "id": 466,
+    "domain": "special_populations",
+    "front": "How is postpartum hemorrhage defined, and what are its main causes?",
+    "back": "Postpartum hemorrhage is blood loss exceeding roughly 500 millilitres after vaginal delivery. Causes include uterine atony, retained placental tissue, and lacerations of the birth canal."
+  },
+  {
+    "id": 467,
+    "domain": "special_populations",
+    "front": "How is postpartum hemorrhage managed in the field?",
+    "back": "Management includes uterine fundal massage, encouraging breastfeeding if conditions allow (since this stimulates natural oxytocin release), treating for shock with oxygen and positioning, and rapid transport."
+  },
+  {
+    "id": 468,
+    "domain": "special_populations",
+    "front": "What is an ectopic pregnancy and how does it typically present when it ruptures?",
+    "back": "An ectopic pregnancy occurs when a fertilized egg implants outside the uterine cavity, most often in a fallopian tube. Rupture can cause sudden severe unilateral lower abdominal pain, vaginal bleeding, and signs of internal hemorrhage and shock."
+  },
+  {
+    "id": 469,
+    "domain": "special_populations",
+    "front": "Which patients should raise suspicion for ectopic pregnancy?",
+    "back": "Any patient of reproductive age with unexplained abdominal pain, syncope, or signs of shock should raise suspicion, even before she knows she is pregnant. Treatment is supportive: oxygen, shock positioning, IV access if within scope, and rapid transport to a facility capable of surgical intervention."
+  },
+  {
+    "id": 470,
+    "domain": "special_populations",
+    "front": "What are the initial steps immediately after a newborn is born?",
+    "back": "Dry the newborn thoroughly, keep the newborn warm, position the airway neutrally, and stimulate by rubbing the back or flicking the soles of the feet."
+  },
+  {
+    "id": 471,
+    "domain": "special_populations",
+    "front": "Why do newborns lose heat so quickly after birth?",
+    "back": "Newborns have a large surface-area-to-volume ratio, which causes rapid heat loss, making warming a priority immediately after delivery."
+  },
+  {
+    "id": 472,
+    "domain": "special_populations",
+    "front": "When does a newborn require positive pressure ventilation after the initial steps?",
+    "back": "A newborn who is not breathing adequately, remains limp, or has a heart rate below 100 beats per minute after the initial steps requires positive pressure ventilation with an appropriately sized bag-valve-mask."
+  },
+  {
+    "id": 473,
+    "domain": "special_populations",
+    "front": "When are chest compressions added during neonatal resuscitation?",
+    "back": "Chest compressions are added if the newborn's heart rate remains below 60 beats per minute despite effective ventilation for 30 seconds."
+  },
+  {
+    "id": 474,
+    "domain": "special_populations",
+    "front": "What does the APGAR concept evaluate, and how should it be used during resuscitation?",
+    "back": "APGAR evaluates appearance, pulse, grimace, activity, and respiration at one and five minutes after birth. It gives a structured snapshot of condition, but resuscitation decisions should never be delayed to calculate a score; act on heart rate and respiratory effort as they present."
+  },
+  {
+    "id": 475,
+    "domain": "special_populations",
+    "front": "Why is a small towel or padding placed under an infant's shoulders rather than the head to achieve a neutral airway?",
+    "back": "An infant's head is proportionally larger and heavier relative to body size, which causes passive neck flexion when supine and can obstruct the airway. Padding under the shoulders instead of the head helps achieve a truly neutral position."
+  },
+  {
+    "id": 476,
+    "domain": "special_populations",
+    "front": "Name three pediatric airway differences from adults that increase the risk of airway complications.",
+    "back": "Children have a proportionally larger tongue relative to the oral cavity, a narrower airway at every level, and a shorter, more flexible trachea, making it easier to over-insert an airway adjunct or kink the airway with improper positioning."
+  },
+  {
+    "id": 477,
+    "domain": "special_populations",
+    "front": "Why can a normal blood pressure reading in a child be misleading during shock?",
+    "back": "A child's cardiovascular system can maintain a normal blood pressure for a surprisingly long time through tachycardia and peripheral vasoconstriction, so a normal reading does not rule out significant blood loss. Blood pressure drops late and decompensation can then be rapid."
+  },
+  {
+    "id": 478,
+    "domain": "special_populations",
+    "front": "Which vital signs are more reliable early indicators of pediatric shock than blood pressure?",
+    "back": "Heart rate, capillary refill, skin colour, and mental status are more reliable early indicators of pediatric shock than blood pressure alone."
+  },
+  {
+    "id": 479,
+    "domain": "special_populations",
+    "front": "What is a febrile seizure and in which age group does it typically occur?",
+    "back": "A febrile seizure occurs in young children, typically between six months and five years of age, during a rapid rise in body temperature. It is usually brief and self-limiting but frightening for caregivers."
+  },
+  {
+    "id": 480,
+    "domain": "special_populations",
+    "front": "What is croup and how is it generally managed?",
+    "back": "Croup is a viral upper airway infection causing a distinctive barking cough and inspiratory stridor. It is generally managed with cool humidified air and calm positioning, since agitation worsens airway swelling."
+  },
+  {
+    "id": 481,
+    "domain": "special_populations",
+    "front": "What are the warning signs of a serious upper airway emergency resembling epiglottitis, and what must never be done?",
+    "back": "Warning signs include drooling, a muffled voice, and the tripod position (sitting upright, leaning forward) with rapid deterioration. These children must never be laid flat, have their mouth examined with a tongue depressor, or be separated from a calming caregiver, since agitation can precipitate complete airway obstruction."
+  },
+  {
+    "id": 482,
+    "domain": "special_populations",
+    "front": "What is bronchiolitis and who does it most commonly affect?",
+    "back": "Bronchiolitis, most often caused by respiratory syncytial virus, affects infants and presents with wheezing, increased work of breathing, and feeding difficulty."
+  },
+  {
+    "id": 483,
+    "domain": "special_populations",
+    "front": "What signs suggest dehydration in a pediatric patient?",
+    "back": "Signs of pediatric dehydration include dry mucous membranes, a sunken fontanelle in infants, decreased urine output, lethargy, and poor skin turgor."
+  },
+  {
+    "id": 484,
+    "domain": "special_populations",
+    "front": "What are the three components of the pediatric assessment triangle?",
+    "back": "The pediatric assessment triangle is a rapid, hands-off evaluation built on appearance (tone, interactiveness, consolability, gaze, speech or cry), work of breathing (abnormal sounds, retractions, positioning, flaring), and circulation to skin (pallor, mottling, or cyanosis)."
+  },
+  {
+    "id": 485,
+    "domain": "special_populations",
+    "front": "Why is the pediatric assessment triangle useful before you ever touch the child?",
+    "back": "It lets you form a general impression of how sick a child is within seconds, from across the room, so you can prioritize your next actions, whether an immediate life-saving intervention or a more gradual structured assessment."
+  },
+  {
+    "id": 486,
+    "domain": "special_populations",
+    "front": "Why is weight-based dosing central to pediatric medication administration?",
+    "back": "A fixed adult dose can be dangerously excessive or ineffective for a child, so medications and fluid resuscitation are dosed by weight. Length-based tools are commonly used in the field to estimate weight when an actual weight is unknown."
+  },
+  {
+    "id": 487,
+    "domain": "special_populations",
+    "front": "What communication strategies help when assessing a pediatric patient?",
+    "back": "Use simple, honest language, avoid words that can be misinterpreted by a literal-minded child, involve a favourite toy or comfort object when possible, and get down to the child's eye level rather than towering over them."
+  },
+  {
+    "id": 488,
+    "domain": "special_populations",
+    "front": "How does family-centred care help calm a pediatric patient?",
+    "back": "A calm caregiver is often the paramedic's best tool for keeping a child calm. Whenever safe, allow a parent or guardian to remain close, hold the child, or assist with simple tasks like holding an oxygen mask near the child's face."
+  },
+  {
+    "id": 489,
+    "domain": "special_populations",
+    "front": "What findings raise concern for non-accidental trauma in a child?",
+    "back": "Warning signs include injuries inconsistent with the stated mechanism, injuries in various stages of healing, patterns suggestive of an object (belt marks, cigarette burns, grip marks), injuries to non-mobile infants, a delay in seeking care, and a history that changes between caregivers or does not match the child's developmental capability."
+  },
+  {
+    "id": 490,
+    "domain": "special_populations",
+    "front": "What is a paramedic's legal duty in Ontario regarding suspected child abuse or neglect?",
+    "back": "Paramedics have a legal duty to report suspected child abuse or neglect, and this duty exists independently of parental consent or objection. Document objectively what was observed and heard, using direct quotations where appropriate."
+  },
+  {
+    "id": 491,
+    "domain": "special_populations",
+    "front": "Why might an older adult in shock fail to show the expected tachycardic response?",
+    "back": "Decreased cardiac reserve, stiffened arteries, and blunted baroreceptor response mean older adults may not mount the expected tachycardic response to shock or pain, and beta-blocker medications can mask this further."
+  },
+  {
+    "id": 492,
+    "domain": "special_populations",
+    "front": "What is a 'silent MI' and why does it matter in geriatric assessment?",
+    "back": "A silent MI is when an older adult experiencing a myocardial infarction presents with vague weakness, confusion, or shortness of breath rather than classic crushing chest pain, so a paramedic must maintain a high index of suspicion even with a mild or nonspecific presentation."
+  },
+  {
+    "id": 493,
+    "domain": "special_populations",
+    "front": "How might infection present differently in an older adult compared to a younger patient?",
+    "back": "Infection in an older adult may present as new confusion, lethargy, or a fall rather than fever, since the aging immune system mounts a blunted febrile response."
+  },
+  {
+    "id": 494,
+    "domain": "special_populations",
+    "front": "Why is polypharmacy a concern when assessing an older adult?",
+    "back": "Polypharmacy, the use of multiple medications simultaneously, increases the risk of drug interactions, side effects, and diagnostic confusion, since a medication side effect can mimic an acute illness. A complete medication list, including over-the-counter drugs and supplements, should be obtained."
+  },
+  {
+    "id": 495,
+    "domain": "special_populations",
+    "front": "Why can pain scores understate the severity of injury in older adults?",
+    "back": "Altered pain perception from neuropathy, cognitive impairment, or chronic pain conditions means pain scores may understate the severity of an underlying injury or illness, so physical findings and history carry extra weight."
+  },
+  {
+    "id": 496,
+    "domain": "special_populations",
+    "front": "What should a thorough fall assessment in an older adult investigate beyond the injury itself?",
+    "back": "A thorough fall assessment should ask about the events immediately before the fall, since syncope, a cardiac event, medication effects, orthostatic hypotension, or an environmental hazard may all be contributing causes requiring identification and documentation."
+  },
+  {
+    "id": 497,
+    "domain": "special_populations",
+    "front": "What warning signs during a home visit might suggest elder abuse or neglect?",
+    "back": "Warning signs include unexplained injuries, poor hygiene, an unsafe or unsanitary living environment, medication mismanagement, or a caregiver who is unwilling to leave the patient alone with the paramedic."
+  },
+  {
+    "id": 498,
+    "domain": "special_populations",
+    "front": "How should a paramedic approach a presented Do Not Resuscitate confirmation form, and what happens in its absence?",
+    "back": "Paramedics must verify and honour a valid Do Not Resuscitate confirmation form or advance directive when one is presented. In its absence, resuscitation is generally initiated."
+  },
+  {
+    "id": 499,
+    "domain": "special_populations",
+    "front": "How can excess adipose tissue affect airway management in a bariatric patient?",
+    "back": "Excess adipose tissue around the neck, chest, and abdomen can restrict chest wall movement, reduce functional lung capacity, and make bag-valve-mask ventilation and advanced airway insertion more technically difficult."
+  },
+  {
+    "id": 500,
+    "domain": "special_populations",
+    "front": "Why is safe patient handling planning so important with bariatric patients?",
+    "back": "Standard cots and stretchers have weight limits that can be exceeded, so services carry bariatric-rated equipment. Crews should assess the safe working load of equipment before a lift, request additional resources early, use proper body mechanics and team lifting, and plan egress including doorways, stairwells, and elevator dimensions before the lift begins."
+  }
+]
